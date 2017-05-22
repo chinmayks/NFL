@@ -1,0 +1,1277 @@
+"incident_id","first_name","last_name","position","team","fine_Category","games_Suspended_From","fined_amount","time_title","date","year"
+842,"R.","Jay","Wide Receiver","Jacksonville Jaguars","",2,57647.0,"N/A","2000-12-01",2000
+843,"R.","Jay","Wide Receiver","Jacksonville Jaguars","Substance Abuse",14,504411.0,"N/A","2001-09-01",2001
+844,"Chris","Walsh","Wide Receiver","Minnesota Vikings","Fighting",0,5000.0,"Week 14","2002-12-13",2002
+845,"Jim","Kleinsasser","Tight End","Minnesota Vikings","Fighting",0,10000.0,"Week 14","2002-12-13",2002
+846,"Mike","McKenzie","Cornerback","Green Bay Packers","Fighting",0,5000.0,"Week 14","2002-12-13",2002
+847,"Nate","Wayne","Outside Linebacker","Green Bay Packers","Fighting",0,5000.0,"Week 14","2002-12-13",2002
+848,"Brian","Dawkins","Safety","Philadelphia Eagles","Hit on Defenseless Player",0,50000.0,"Week 8","2002-11-01",2002
+849,"Rodney","Harrison","Safety","San Diego Chargers","Head-Butting",1,111764.0,"N/A","2002-10-31",2002
+850,"Darren","Woodson","Safety","Dallas Cowboys","Hit on Defenseless Player",0,75000.0,"Week 8","2002-10-30",2002
+851,"Steve","Herndon","Guard","Denver Broncos","Chop Block",0,17647.0,"Week 13","2002-12-06",2002
+852,"Antuan","Edwards","Safety","Green Bay Packers","Late Hit",0,5000.0,"Week 14","2002-12-13",2002
+853,"Tom","Nalen","Center","Denver Broncos","Leg Whip",0,5000.0,"Week 2","2002-09-20",2002
+854,"Victor","Riley","Left Tackle","New Orleans Saints","Personal Conduct",1,30882.0,"N/A","2002-03-19",2002
+855,"Warren","Sapp","Defensive Tackle","Tampa Bay Buccaneers","Striking/Kicking/Kneeing",0,5000.0,"Week 1","2002-09-12",2002
+856,"Willie","McGinest","Linebacker","New England Patriots","Roughing the Passer",0,7500.0,"Week 9","2002-11-08",2002
+857,"Izell","Reese","Safety","Denver Broncos","Roughing the Passer",0,5000.0,"Week 2","2002-09-20",2002
+858,"Gary","Walker","Defensive Tackle","Houston Texans","Roughing the Passer",0,15000.0,"Week 8","2002-11-02",2002
+859,"Samari","Rolle","Center","Tennessee Titans","Roughing the Passer",0,7500.0,"Week 7","2002-10-21",2002
+860,"R.","Jay","Wide Receiver","Jacksonville Jaguars","Substance Abuse",16,735000.0,"N/A","2002-09-01",2002
+861,"Rashard","Anderson","Cornerback","Carolina Panthers","Substance Abuse",32,1173120.0,"N/A","2002-05-23",2002
+862,"Chris","Gardocki","Punter","Cleveland Browns","Taunting",0,5000.0,"Week 1","2002-09-12",2002
+863,"Dwayne","Rudd","Linebacker","Cleveland Browns","Taunting",0,5000.0,"Week 1","2002-09-12",2002
+864,"Phil","Dawson","Kicker","Cleveland Browns","Taunting",0,5000.0,"Week 1","2002-09-12",2002
+865,"Michael","Vick","Quarterback","Atlanta Falcons","Other Uniform/Equipment Violation",0,5000.0,"Week 8","2002-11-01",2002
+866,"Terrell","Owens","Wide Receiver","San Francisco 49ers","Other Uniform/Equipment Violation",0,5000.0,"Week 6","2002-10-17",2002
+867,"Roy","Williams","Safety","Dallas Cowboys","Unsportsmanlike Conduct",0,7500.0,"Week 9","2002-11-09",2002
+868,"Warren","Sapp","Defensive Tackle","Tampa Bay Buccaneers","Unsportsmanlike Conduct",0,10000.0,"Week 2","2002-09-19",2002
+869,"Chris","Hovan","Defensive Tackle","Minnesota Vikings","Unsportsmanlike Conduct",0,5000.0,"Week 11","2002-11-21",2002
+870,"Brett","Favre","Quarterback","Green Bay Packers","Unsportsmanlike Conduct",0,5000.0,"Week 11","2002-11-21",2002
+871,"Julius","Peppers","Outside Linebacker","Carolina Panthers","""Substance Abuse, Performance Enhancing Drugs""",4,250000.0,"N/A","2002-12-04",2002
+872,"Terrence","Kiel","Safety","San Diego Chargers","Physical Contact with Official",0,25000.0,"Week 8","2003-10-26",2003
+873,"Rodney","Harrison","Safety","New England Patriots","Physical Contact with Official",0,25000.0,"Week 8","2003-10-26",2003
+874,"Joe","Horn","Wide Receiver","New Orleans Saints","Celebration",0,30000.0,"Week 15","2003-12-17",2003
+875,"Samari","Rolle","Center","Tennessee Titans","Celebration",0,12500.0,"Week 14","2003-12-04",2003
+876,"Randy","Moss","Wide Receiver","Minnesota Vikings","Celebration",0,5000.0,"Week 12","2003-11-28",2003
+877,"Andre","Dyson","Cornerback","Tennessee Titans","Celebration",0,6000.0,"Week 9","2003-11-15",2003
+878,"Keith","Bulluck","Linebacker","Tennessee Titans","Celebration",0,10000.0,"Week 10","2003-11-15",2003
+879,"Kevin","Carter","Defense","Tennessee Titans","Celebration",0,6000.0,"Week 10","2003-11-15",2003
+880,"Robaire","Smith","Defensive Tackle","Tennessee Titans","Celebration",0,600.0,"Week 10","2003-11-15",2003
+881,"Samari","Rolle","Center","Tennessee Titans","Celebration",0,6000.0,"Week 10","2003-11-15",2003
+882,"Tank","Williams","Safety","Tennessee Titans","Celebration",0,6000.0,"Week 10","2003-11-15",2003
+883,"Donald","Driver","Wide Receiver","Green Bay Packers","Celebration",0,5000.0,"Week 15","2003-12-19",2003
+884,"Robert","Ferguson","Wide Receiver","Green Bay Packers","Celebration",0,5000.0,"Week 15","2003-12-19",2003
+885,"Hunter","Goodwin","Tight End","Minnesota Vikings","Fighting",0,10000.0,"Week 14","2003-12-13",2003
+886,"Keenan","McCardell","Wide Receiver","Tampa Bay Buccaneers","Chop Block",0,12500.0,"Week 2","2003-09-19",2003
+887,"Terrell","Owens","Wide Receiver","San Francisco 49ers","Striking/Kicking/Kneeing",0,10000.0,"Postseason","2003-01-09",2003
+888,"Tesla","Williams","Safety","New York Giants","Striking/Kicking/Kneeing",0,10000.0,"Postseason","2003-01-09",2003
+889,"Ben","Leber","Linebacker","San Diego Chargers","Roughing the Passer",0,7500.0,"Week 15","2003-12-19",2003
+890,"Kenny","Mixon","Defense","Minnesota Vikings","Roughing the Passer",0,5000.0,"Week 12","2003-11-28",2003
+891,"Damien","Robinson","Safety","Seattle Seahawks","Roughing the Passer",0,7500.0,"Week 15","2003-12-19",2003
+892,"Grant","Wistrom","Defense","St. Louis Rams","Roughing the Passer",0,5000.0,"Week 15","2003-12-19",2003
+893,"Chris","McAlister","Cornerback","Baltimore Ravens","Taunting",0,5000.0,"Week 6","2003-10-18",2003
+894,"Jon","Kitna","Quarterback","Cincinnati Bengals","Other Uniform/Equipment Violation",0,5000.0,"Week 15","2003-12-19",2003
+895,"Mike","Flanagan","Center","Green Bay Packers","Unsportsmanlike Conduct",0,5000.0,"Week 15","2003-12-19",2003
+896,"Omar","Stoutmire","Safety","New York Giants","Unsportsmanlike Conduct",0,7500.0,"Postseason","2003-01-10",2003
+897,"Warren","Sapp","Defensive Tackle","Tampa Bay Buccaneers","Verbal or other Non-Physical Offense Against  Official",0,50000.0,"Week 6","2003-10-15",2003
+898,"Scott","Shanle","Linebacker","St. Louis Rams","""Substance Abuse, Performance Enhancing Drugs""",4,52941.0,"N/A","2003-09-26",2003
+899,"Donovan","Darius","Safety","Jacksonville Jaguars","Unsportsmanlike Conduct",0,75000.0,"Week 15","2004-12-22",2004
+900,"Randy","Moss","Wide Receiver","Minnesota Vikings","Fighting",0,5000.0,"Week 3","2004-10-02",2004
+901,"Nate","Burleson","Wide Receiver","Minnesota Vikings","Fighting",0,7500.0,"Week 4","2004-10-05",2004
+902,"Gibril","Wilson","Safety","New York Giants","Helmet-to-Helmet Hit",0,7500.0,"Week 3","2004-10-01",2004
+903,"Terry","Cousin","Cornerback","New York Giants","Helmet-to-Helmet Hit",0,7500.0,"Week 3","2004-10-01",2004
+904,"John","Lynch","Safety","Denver Broncos","Hit on Defenseless Player",0,7500.0,"Week 1","2004-09-15",2004
+905,"Sean","Taylor","Safety","Washington Redskins","Off-court/Off-field Violation",0,25000.0,"Preseason","2004-07-23",2004
+906,"Jake","Plummer","Quarterback","Denver Broncos","Unsportsmanlike Conduct",0,5000.0,"Week 14","2004-12-18",2004
+907,"Jamal","Lewis","Running Backs","Baltimore Ravens","Off-court/Off-field Violation",0,760000.0,"Week 4","2004-10-09",2004
+908,"Barrett","Robbins","Center","Oakland Raiders","Foreign Substances on Body/Uniform",0,234375.0,"Preseason","2004-07-15",2004
+909,"Chris","Cooper","Defense","Oakland Raiders","Foreign Substances on Body/Uniform",0,187500.0,"Preseason","2004-07-15",2004
+910,"Dana","Stubblefield","Defensive Tackle","New England Patriots","Foreign Substances on Body/Uniform",0,44705.0,"Preseason","2004-07-15",2004
+911,"Steve","Gleason","Safety","New Orleans Saints","Striking/Kicking/Kneeing",0,5000.0,"Week 13","2004-12-08",2004
+912,"Tommie","Harris","Defensive Tackle","Chicago Bears","Roughing the Passer",0,5000.0,"Week 7","2004-10-29",2004
+913,"Barrett","Green","Linebacker","New York Giants","Roughing the Passer",0,5000.0,"Week 3","2004-10-01",2004
+914,"Michael","Pittman","Running Backs","Tampa Bay Buccaneers","Domestic Violence",3,264705.0,"N/A","2004-06-22",2004
+915,"Clinton","Portis","Running Backs","Washington Redskins","Other Uniform/Equipment Violation",0,5000.0,"Week 13","2004-12-11",2004
+916,"Ricky","Williams","Running Backs","Miami Dolphins","Substance Abuse",4,127058.0,"N/A","2005-09-03",2005
+917,"Ricky","Williams","Running Backs","Miami Dolphins","Substance Abuse",11,385000.0,"N/A","2005-09-03",2005
+918,"Jason","Short","Linebacker","Philadelphia Eagles","Fighting",0,2500.0,"Week 1","2005-09-15",2005
+919,"Keith","Adams","Linebacker","Philadelphia Eagles","Fighting",0,2500.0,"Week 1","2005-09-15",2005
+920,"Kevin","McCadam","Safety","Atlanta Falcons","Fighting",0,1000.0,"Week 1","2005-09-15",2005
+921,"Mike","Labinjo","Linebacker","Philadelphia Eagles","Fighting",0,2500.0,"Week 1","2005-09-15",2005
+922,"Allen","Rossum","Cornerback","Atlanta Falcons","Fighting",0,2500.0,"Week 1","2005-09-15",2005
+923,"Keion","Carpenter","Safety","Atlanta Falcons","Fighting",0,2500.0,"Week 1","2005-09-15",2005
+924,"Randy","Moss","Wide Receiver","Minnesota Vikings","Celebration",0,10000.0,"Postseason","2005-01-13",2005
+925,"Chad","Johnson","Wide Receiver","Cincinnati Bengals","Celebration",0,5000.0,"Week 13","2005-12-04",2005
+926,"Frank","Trotter","Defense","Philadelphia Eagles","Fighting",0,5000.0,"Week 1","2005-09-15",2005
+927,"Kevin","Mathis","Cornerback","Atlanta Falcons","Fighting",0,5000.0,"Week 1","2005-09-15",2005
+928,"John","Lynch","Safety","Denver Broncos","Helmet-to-Helmet Hit",0,75000.0,"Week 17","2005-01-05",2005
+929,"Samari","Rolle","Center","Baltimore Ravens","Off-court/Off-field Violation",0,58823.0,"Preseason","2005-09-07",2005
+930,"Fred","Miller","Tackle","Chicago Bears","Off-court/Off-field Violation",0,50000.0,"Week 13","2005-12-10",2005
+931,"Olin","Kreutz","Center","Chicago Bears","Off-court/Off-field Violation",0,50000.0,"Week 13","2005-12-10",2005
+932,"Steve","Smith","Wide Receiver","Carolina Panthers","Physical Contact with Official",0,15000.0,"Week 16","2005-12-29",2005
+933,"Ronde","Barber","Safety","Tampa Bay Buccaneers","Physical Contact with Official",0,30000.0,"Week 5","2005-10-14",2005
+934,"Chad","Lavalais","Defensive Tackle","Atlanta Falcons","Roughing the Passer",0,7500.0,"Week 1","2005-09-15",2005
+935,"Eric","Barton","Linebacker","New York Jets","Roughing the Passer",0,7500.0,"Postseason","2005-01-13",2005
+936,"DeAngelo","Hall","Cornerback","Atlanta Falcons","Unsportsmanlike Conduct",0,5000.0,"Week 1","2005-09-15",2005
+937,"Joey","Porter","Linebacker","Pittsburgh Steelers","Cursing",0,10000.0,"Week 16","2006-12-27",2006
+938,"Sean","Taylor","Safety","Washington Redskins","Off-court/Off-field Violation",0,72000.0,"Preseason","2006-08-07",2006
+939,"Ricky","Williams","Running Backs","Miami Dolphins","Substance Abuse",16,585000.0,"N/A","2006-04-25",2006
+940,"Odell","Thurman","Linebacker","Cincinnati Bengals","Driving Under Influence",32,785000.0,"N/A","2006-09-25",2006
+941,"Hines","Ward","Wide Receiver","Pittsburgh Steelers","Celebration",0,5000.0,"Week 7","2006-10-27",2006
+942,"Nate","Washington","Wide Receiver","Pittsburgh Steelers","Celebration",0,5000.0,"Week 7","2006-10-27",2006
+943,"Santonio","Holmes","Wide Receiver","Pittsburgh Steelers","Celebration",0,5000.0,"Week 7","2006-10-27",2006
+944,"Antrel","Rolle","Safety","Arizona Cardinals","Face Mask",0,12500.0,"Week 7","2006-10-26",2006
+945,"Tyler","Brayton","Defensive Tackle","Oakland Raiders","Striking/Kicking/Kneeing",0,25000.0,"Week 9","2006-11-08",2006
+946,"Michael","Vick","Quarterback","Atlanta Falcons","Unsportsmanlike Conduct",0,10000.0,"Week 12","2006-11-30",2006
+947,"Bryant","McKinnie","Left Tackle","Minnesota Vikings","Off-court/Off-field Violation",0,41176.0,"Week 1","2006-09-10",2006
+948,"Fred","Smoot","Cornerback","Minnesota Vikings","Off-court/Off-field Violation",0,82352.0,"Week 1","2006-09-10",2006
+949,"Terrell","Owens","Wide Receiver","Dallas Cowboys","Unsportsmanlike Conduct",0,35000.0,"Week 15","2006-12-18",2006
+950,"Sean","Taylor","Safety","Washington Redskins","Unsportsmanlike Conduct",0,17000.0,"Postseason","2006-01-16",2006
+951,"Shawne","Merriman","Linebacker","San Diego Chargers","Substance Abuse",4,82352.0,"N/A","2006-10-23",2006
+952,"Jerramy","Stevens","Tight End","Seattle Seahawks","Unsportsmanlike Conduct",0,15000.0,"Week 9","2006-11-08",2006
+953,"Darrent","Williams","Cornerback","Denver Broncos","Verbal or other Non-Physical Offense Against  Official",0,15000.0,"Week 10","2006-11-19",2006
+954,"Matt","Lehr","Center","Atlanta Falcons","""Substance Abuse, Performance Enhancing Drugs""",4,198823.0,"N/A","2006-10-17",2006
+955,"Sammy","Morris","Running Backs","Miami Dolphins","""Substance Abuse, Performance Enhancing Drugs""",4,137647.0,"N/A","2006-09-01",2006
+956,"Hollis","Thomas","Defensive Tackle","New Orleans Saints","""Substance Abuse, Performance Enhancing Drugs""",4,167058.0,"N/A","2006-12-05",2006
+957,"Tesla","Rogers","Defensive Tackle","Detroit Lions","Substance Abuse",4,200000.0,"N/A","2006-10-22",2006
+958,"Chad","Johnson","Wide Receiver","Cincinnati Bengals","Other Uniform/Equipment Violation",0,5000.0,"Week 8","2006-11-03",2006
+959,"Tank","Johnson","Defensive Tackle","Chicago Bears","""Alleged Firearm Possession, Violation of Probation""",8,240000.0,"N/A","2007-06-04",2007
+960,"Adam-Pacman","Jones","Cornerback","Tennessee Titans","""Violence, Threats""",16,1292500.0,"N/A","2007-04-10",2007
+961,"Robert","Gallery","Tackle","Oakland Raiders","Chop Block",0,7500.0,"Week 6","2007-10-17",2007
+962,"Chris","McAlister","Cornerback","Baltimore Ravens","Verbal or other Non-Physical Offense Against  Official",0,15000.0,"Week 14","2007-12-07",2007
+963,"Derrick","Mason","Wide Receiver","Baltimore Ravens","Verbal or other Non-Physical Offense Against  Official",0,15000.0,"Week 13","2007-12-07",2007
+964,"Samari","Rolle","Center","Baltimore Ravens","Verbal or other Non-Physical Offense Against  Official",0,15000.0,"Week 13","2007-12-07",2007
+965,"Larry","Johnson","Running Backs","Kansas City Chiefs","Celebration",0,7500.0,"Week 9","2007-11-10",2007
+966,"Maurice","Jones-Drew","Running Backs","Jacksonville Jaguars","Celebration",0,7500.0,"Week 5","2007-10-13",2007
+967,"Terrell","Owens","Wide Receiver","Dallas Cowboys","Celebration",0,7500.0,"Week 2","2007-09-19",2007
+968,"Chad","Johnson","Wide Receiver","Cincinnati Bengals","Celebration",0,35000.0,"Week 12","2007-11-29",2007
+969,"Tommie","Harris","Defensive Tackle","Chicago Bears","Face Mask",0,5000.0,"Week 3","2007-09-23",2007
+970,"Terence","Newman","Cornerback","Dallas Cowboys","Helmet-to-Helmet Hit",0,5000.0,"Week 7","2007-10-27",2007
+971,"Brodney","Pool","Safety","Cleveland Browns","Helmet-to-Helmet Hit",0,5000.0,"Week 3","2007-09-23",2007
+972,"Roy","Williams","Safety","Dallas Cowboys","Horse Collar Tackle",0,15000.0,"Week 7","2007-10-27",2007
+973,"Charles","Tillman","Cornerback","Chicago Bears","Horse Collar Tackle",0,7500.0,"Week 15","2007-12-21",2007
+974,"Corey","Graham","Cornerback","Chicago Bears","Horse Collar Tackle",0,7500.0,"Week 4","2007-10-05",2007
+975,"Mike","Vrabel","Linebacker","New England Patriots","Late Hit",0,5000.0,"Week 5","2007-10-13",2007
+976,"Kevin","Mawae","Center","Tennessee Titans","Late Hit",0,5000.0,"Week 14","2007-12-15",2007
+977,"Jeremy","Bridges","Guard","Carolina Panthers","Misdemeanor assault",2,82352.0,"N/A","2007-07-27",2007
+978,"Joe","Nedney","Kicker","San Francisco 49ers","Unsportsmanlike Conduct",0,7500.0,"Week 8","2007-11-01",2007
+979,"Ray","Edwards","Defense","Minnesota Vikings","""Substance Abuse, Performance Enhancing Drugs""",4,64705.0,"N/A","2007-12-05",2007
+980,"Joey","Porter","Linebacker","Miami Dolphins","Off-court/Off-field Violation",0,141176.0,"Preseason","2007-07-20",2007
+981,"Kyle","Vanden","Defense","Tennessee Titans","Roughing the Passer",0,7500.0,"Week 5","2007-10-14",2007
+982,"Vince","Wilfork","Defensive Tackle","New England Patriots","Roughing the Passer",0,12500.0,"Week 3","2007-09-28",2007
+983,"LaRon","Landry","Safety","Washington Redskins","Roughing the Passer",0,16764.0,"Week 8","2007-11-05",2007
+984,"Drayton","Florence","Cornerback","San Diego Chargers","Roughing the Passer",0,15000.0,"Week 8","2007-11-02",2007
+985,"Warren","Sapp","Defensive Tackle","Oakland Raiders","Roughing the Passer",0,5000.0,"Week 4","2007-10-06",2007
+986,"LaJuan","Ramsey","Defensive Tackle","Philadelphia Eagles","Spearing",0,21176.0,"Week 8","2007-11-05",2007
+987,"Reggie","Bush","Running Backs","New Orleans Saints","Taunting",0,5000.0,"Postseason","2007-01-28",2007
+988,"Rodney","Harrison","Safety","New England Patriots","Taunting",0,5000.0,"Week 13","2007-12-07",2007
+989,"Brian","Urlacher","Linebacker","Chicago Bears","Other Uniform/Equipment Violation",0,100000.0,"Preseason","2007-04-19",2007
+990,"David","Stewart","Right Tackle","Tennessee Titans","Unsportsmanlike Conduct",0,12500.0,"Week 14","2007-12-15",2007
+991,"Vince","Wilfork","Defensive Tackle","New England Patriots","Unsportsmanlike Conduct",0,5000.0,"Week 6","2007-10-20",2007
+992,"Vince","Young","Quarterback","Tennessee Titans","Unsportsmanlike Conduct",0,7500.0,"Week 2","2007-09-22",2007
+993,"Hines","Ward","Wide Receiver","Pittsburgh Steelers","Unsportsmanlike Conduct",0,5000.0,"Week 1","2007-09-15",2007
+994,"Albert","Haynesworth","Defensive Tackle","Tennessee Titans","Unsportsmanlike Conduct",0,5000.0,"Week 1","2007-09-15",2007
+995,"Bart","Scott","Linebacker","Baltimore Ravens","Verbal or other Non-Physical Offense Against  Official",0,25000.0,"Week 13","2007-12-07",2007
+996,"Derrick","Burgess","Cornerback","Oakland Raiders","Verbal or other Non-Physical Offense Against  Official",0,25000.0,"Week 16","2007-12-28",2007
+997,"Warren","Sapp","Defensive Tackle","Oakland Raiders","Verbal or other Non-Physical Offense Against  Official",0,75000.0,"Week 16","2007-12-27",2007
+998,"Terrell","Owens","Wide Receiver","Dallas Cowboys","Other Uniform/Equipment Violation",0,10000.0,"Week 9","2007-11-09",2007
+999,"Chris","Henry","Wide Receiver","Cincinnati Bengals","Personal Conduct",8,204705.0,"N/A","2007-04-01",2007
+1000,"Kenard","Lang","Defense","Denver Broncos","""Substance Abuse, Performance Enhancing Drugs""",6,0.0,"N/A","2007-10-05",2007
+1001,"Tim","Couch","Quarterback","Green Bay Packers","""Substance Abuse, Performance Enhancing Drugs""",6,0.0,"N/A","2007-10-05",2007
+1002,"Chris","Henry","Running Backs","Tennessee Titans","Substance Abuse",4,67058.0,"N/A","2007-11-03",2007
+1003,"Dominic","Rhodes","Running Backs","Oakland Raiders","Substance Abuse",4,352941.0,"N/A","2007-07-04",2007
+1004,"Kenny","Peterson","Defensive Tackle","Denver Broncos","Substance Abuse",4,140000.0,"N/A","2007-07-06",2007
+1005,"Marcus","Stroud","Defensive Tackle","Jacksonville Jaguars","Substance Abuse",4,332941.0,"N/A","2007-11-06",2007
+1006,"Obafemi","Ayanbadejo","Fullback","Arizona Cardinals","Substance Abuse",4,169411.0,"N/A","2007-08-09",2007
+1007,"Rodney","Harrison","Safety","New England Patriots","""Substance Abuse, Performance Enhancing Drugs""",4,470588.0,"N/A","2007-09-02",2007
+1008,"Ryan","Tucker","Tackle","Cleveland Browns","Substance Abuse",4,541176.0,"N/A","2007-08-03",2007
+1009,"Alge","Crumpler","Tight End","Atlanta Falcons","Other Uniform/Equipment Violation",0,10000.0,"Week 15","2007-12-18",2007
+1010,"Chris","Houston","Cornerback","Atlanta Falcons","Other Uniform/Equipment Violation",0,10000.0,"Week 15","2007-12-18",2007
+1011,"DeAngelo","Hall","Cornerback","Atlanta Falcons","Other Uniform/Equipment Violation",0,10000.0,"Week 15","2007-12-18",2007
+1012,"Joe","Horn","Wide Receiver","Atlanta Falcons","Other Uniform/Equipment Violation",0,7500.0,"Week 15","2007-12-18",2007
+1013,"Roddy","White","Wide Receiver","Atlanta Falcons","Other Uniform/Equipment Violation",0,10000.0,"Week 15","2007-12-18",2007
+1014,"Brian","Urlacher","Linebacker","Chicago Bears","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Week 6","2008-10-18",2008
+1015,"Ryan","Clady","Left Tackle","Denver Broncos","Chop Block",0,5000.0,"Week 2","2008-09-20",2008
+1016,"Michael","Pittman","Running Backs","Denver Broncos","Chop Block",0,5000.0,"Week 7","2008-10-24",2008
+1017,"Richie","Incognito","Guard","St. Louis Rams","Chop Block",0,5000.0,"Week 6","2008-10-17",2008
+1018,"Randy","Moss","Wide Receiver","New England Patriots","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Week 10","2008-11-09",2008
+1019,"Kellen","Winslow","Tight End","Cleveland Browns","Detrimental Conduct",1,235294.0,"N/A","2008-10-21",2008
+1020,"Tommie","Harris","Defensive Tackle","Chicago Bears","Detrimental Conduct",1,35588.0,"N/A","2008-10-03",2008
+1021,"Chris","Johnson","Running Backs","Tennessee Titans","Celebration",0,10000.0,"Week 7","2008-10-23",2008
+1022,"Jared","Allen","Defense","Minnesota Vikings","Celebration",0,10000.0,"Week 13","2008-12-05",2008
+1023,"Antoine","Winfield","Cornerback","Minnesota Vikings","Celebration",0,10000.0,"Week 5","2008-10-10",2008
+1024,"Ikechuku","Ndukwe","Guard","Miami Dolphins","Celebration",0,10000.0,"Week 5","2008-10-09",2008
+1025,"Ronnie","Brown","Running Backs","Miami Dolphins","Celebration",0,10000.0,"Week 5","2008-10-09",2008
+1026,"Vernon","Carey","Tackle","Miami Dolphins","Celebration",0,10000.0,"Week 5","2008-10-09",2008
+1027,"Julian","Peterson","Linebacker","Seattle Seahawks","Celebration",0,7500.0,"Week 2","2008-09-19",2008
+1028,"DeSean","Jackson","Wide Receiver","Philadelphia Eagles","Celebration",0,10000.0,"Week 6","2008-10-12",2008
+1029,"Quintin","Demps","Safety","Philadelphia Eagles","Celebration",0,10000.0,"Week 5","2008-10-12",2008
+1030,"Torrance","Daniels","Linebacker","Philadelphia Eagles","Face Mask",0,5000.0,"Week 5","2008-10-12",2008
+1031,"Jamie","Winborn","Linebacker","Denver Broncos","Face Mask",0,5000.0,"Week 7","2008-10-24",2008
+1032,"Chad","Greenway","Outside Linebacker","Minnesota Vikings","Face Mask",0,7500.0,"Week 5","2008-10-10",2008
+1033,"Patrick","Kerney","Defense","Seattle Seahawks","Face Mask",0,5000.0,"Week 2","2008-09-19",2008
+1034,"Richie","Incognito","Guard","St. Louis Rams","Face Mask",0,5000.0,"Week 6","2008-10-17",2008
+1035,"John","Henderson","Defensive Tackle","Jacksonville Jaguars","Fighting",0,10000.0,"Week 9","2008-11-07",2008
+1036,"Matt","Light","Tackle","New England Patriots","Fighting",0,15000.0,"Week 12","2008-11-25",2008
+1037,"Jeremy","Trueblood","Right Tackle","Tampa Bay Buccaneers","Fighting",0,5000.0,"Week 3","2008-09-26",2008
+1038,"Charles","Tillman","Cornerback","Chicago Bears","Fighting",0,5000.0,"Week 3","2008-09-26",2008
+1039,"Andrew","Whitworth","Left Tackle","Cincinnati Bengals","Fighting",0,10000.0,"Week 9","2008-11-07",2008
+1040,"Channing","Crowder","Linebacker","Miami Dolphins","Fighting",0,15000.0,"Week 12","2008-11-25",2008
+1041,"Eric","Smith","Safety","New York Jets","Helmet-to-Helmet Hit",0,50000.0,"Week 5","2008-10-05",2008
+1042,"Kevin","Kaesviharn","Safety","New Orleans Saints","Helmet-to-Helmet Hit",0,25000.0,"Week 4","2008-10-04",2008
+1043,"Julius","Peppers","Outside Linebacker","Carolina Panthers","Helmet-to-Helmet Hit",0,10000.0,"Week 4","2008-10-03",2008
+1044,"Aaron","Rouse","Safety","Green Bay Packers","Hit on Defenseless Player",0,7500.0,"Week 7","2008-10-24",2008
+1045,"Brandon","Lloyd","Wide Receiver","Chicago Bears","Horse Collar Tackle",0,7500.0,"Week 13","2008-12-05",2008
+1046,"Charles","Tillman","Cornerback","Chicago Bears","Horse Collar Tackle",0,7500.0,"Week 13","2008-12-05",2008
+1047,"Kalimba","Edwards","Cornerback","Oakland Raiders","Horse Collar Tackle",0,7500.0,"Week 4","2008-10-05",2008
+1048,"Chris","Hope","Safety","Tennessee Titans","Horse Collar Tackle",0,7500.0,"Week 3","2008-09-26",2008
+1049,"Plaxico","Burress","Wide Receiver","New York Giants","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Week 7","2008-10-24",2008
+1050,"Adam-Pacman","Jones","Cornerback","Dallas Cowboys","Fighting",4,410000.0,"N/A","2008-10-14",2008
+1051,"David","Thomas","Tight End","New England Patriots","Late Hit",0,7500.0,"Week 9","2008-11-07",2008
+1052,"Ryan","Clark","Safety","Pittsburgh Steelers","Late Hit",0,7500.0,"Week 6","2008-10-15",2008
+1053,"Robert","Ferguson","Wide Receiver","Minnesota Vikings","Late Hit",0,5000.0,"Week 5","2008-10-10",2008
+1054,"Tommy","Kelly","Defensive Tackle","Oakland Raiders","Late Hit",0,5000.0,"Week 14","2008-12-12",2008
+1055,"James","Farrior","Linebacker","Pittsburgh Steelers","Unsportsmanlike Conduct",0,7500.0,"Week 2","2008-09-18",2008
+1056,"Dominic","Raiola","Center","Detroit Lions","Unsportsmanlike Conduct",0,7500.0,"Week 14","2008-12-09",2008
+1057,"Darryl","Blackstock","Linebacker","Cincinnati Bengals","""Substance Abuse, Performance Enhancing Drugs""",4,122352.0,"N/A","2008-10-08",2008
+1058,"Jammal","Brown","Tackle","New Orleans Saints","Verbal or other Non-Physical Offense Against  Official",0,25000.0,"Week 17","2008-01-04",2008
+1059,"Vince","Wilfork","Defensive Tackle","New England Patriots","Striking/Kicking/Kneeing",0,15000.0,"Week 17","2008-01-05",2008
+1060,"Jared","Allen","Defense","Minnesota Vikings","Roughing the Passer",0,25000.0,"Week 10","2008-11-19",2008
+1061,"Julius","Peppers","Outside Linebacker","Carolina Panthers","Roughing the Passer",0,10000.0,"Week 13","2008-12-05",2008
+1062,"LaMarr","Woodley","Outside Linebacker","Pittsburgh Steelers","Roughing the Passer",0,10000.0,"Week 9","2008-11-07",2008
+1063,"Turk","McBride","Defense","Kansas City Chiefs","Roughing the Passer",0,5000.0,"Week 5","2008-10-05",2008
+1064,"Vince","Wilfork","Defensive Tackle","New England Patriots","Roughing the Passer",0,35000.0,"Week 8","2008-10-30",2008
+1065,"Nick","Barnett","Outside Linebacker","Green Bay Packers","Roughing the Passer",0,7500.0,"Week 2","2008-09-20",2008
+1066,"Cortland","Finnegan","Cornerback","Tennessee Titans","Roughing the Passer",0,25000.0,"Week 15","2008-12-18",2008
+1067,"Jared","Allen","Defense","Minnesota Vikings","Roughing the Passer",0,50000.0,"Week 9","2008-11-07",2008
+1068,"Albert","Haynesworth","Defensive Tackle","Tennessee Titans","Roughing the Passer",0,5000.0,"Postseason","2008-01-12",2008
+1069,"Justin","Tuck","Defense","New York Giants","Roughing the Passer",0,7500.0,"Week 9","2008-11-07",2008
+1070,"Adrian","Wilson","Safety","Arizona Cardinals","Roughing the Passer",0,25000.0,"Week 5","2008-10-10",2008
+1071,"Antonio","Pittman","Running Backs","St. Louis Rams","Off-court/Off-field Violation",0,25000.0,"Week 16","2008-12-22",2008
+1072,"Donte","Stallworth","Wide Receiver","Cleveland Browns","Spearing",0,5000.0,"Week 14","2008-12-12",2008
+1073,"Benny","Sapp","Cornerback","Minnesota Vikings","Striking/Kicking/Kneeing",0,5000.0,"Week 13","2008-12-05",2008
+1074,"Nate","Washington","Wide Receiver","Philadelphia Eagles","Taunting",0,7500.0,"Week 6","2008-10-15",2008
+1075,"Jamar","Williams","Linebacker","Chicago Bears","Taunting",0,75000.0,"Week 3","2008-09-26",2008
+1076,"Plaxico","Burress","Wide Receiver","New York Giants","Football Into Stands",0,5000.0,"Week 7","2008-10-24",2008
+1077,"Eric","Weems","Wide Receiver","Atlanta Falcons","Unsportsmanlike Conduct",0,5000.0,"Preseason","2008-08-31",2008
+1078,"Todd","Weiner","Tackle","Atlanta Falcons","Unsportsmanlike Conduct",0,7500.0,"Preseason","2008-08-31",2008
+1079,"Wes","Welker","Wide Receiver","New England Patriots","Unsportsmanlike Conduct",0,10000.0,"Week 16","2008-12-24",2008
+1080,"Keyshawn","Johnson","Wide Receiver","Carolina Panthers","Unsportsmanlike Conduct",0,5000.0,"Week 13","2008-12-06",2008
+1081,"Tesla","Ellis","Defense","New York Jets","Unsportsmanlike Conduct",0,10000.0,"Week 16","2008-12-23",2008
+1082,"Cortland","Finnegan","Cornerback","Tennessee Titans","Unsportsmanlike Conduct",0,5000.0,"Week 5","2008-10-10",2008
+1083,"Hines","Ward","Wide Receiver","Pittsburgh Steelers","Unsportsmanlike Conduct",0,10000.0,"Week 5","2008-10-09",2008
+1084,"Hines","Ward","Wide Receiver","Pittsburgh Steelers","Unsportsmanlike Conduct",0,5000.0,"Week 5","2008-10-09",2008
+1085,"David","Stewart","Right Tackle","Tennessee Titans","Unsportsmanlike Conduct",0,7500.0,"Week 13","2008-12-05",2008
+1086,"Gibril","Wilson","Safety","Oakland Raiders","Unsportsmanlike Conduct",0,5000.0,"Week 3","2008-09-26",2008
+1087,"Kevin","Mawae","Center","Tennessee Titans","Unsportsmanlike Conduct",0,5000.0,"Week 14","2008-12-12",2008
+1088,"Joey","Porter","Linebacker","Miami Dolphins","Unsportsmanlike Conduct",0,7500.0,"Week 12","2008-11-29",2008
+1089,"Ryan","Harris","Right Tackle","Denver Broncos","Unsportsmanlike Conduct",0,5000.0,"Week 7","2008-10-24",2008
+1090,"Derrick","Mason","Wide Receiver","Baltimore Ravens","Unsportsmanlike Conduct",0,5000.0,"Week 5","2008-10-10",2008
+1091,"Joey","Porter","Linebacker","Miami Dolphins","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Week 6","2008-10-18",2008
+1092,"Plaxico","Burress","Wide Receiver","New York Giants","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Week 7","2008-10-24",2008
+1093,"James","Harrison","Outside Linebacker","Pittsburgh Steelers","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Week 5","2008-10-09",2008
+1094,"Joey","Porter","Linebacker","Miami Dolphins","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Week 9","2008-11-05",2008
+1095,"Dre","Bly","Cornerback","Denver Broncos","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Week 6","2008-10-17",2008
+1096,"Richie","Incognito","Guard","St. Louis Rams","Verbal or other Non-Physical Offense Against  Official",0,25000.0,"Week 6","2008-10-17",2008
+1097,"Jesse","Chatman","Running Backs","New York Jets","Substance Abuse",4,144705.0,"N/A","2008-08-30",2008
+1098,"Luke","Petitgout","Right Tackle","Tampa Bay Buccaneers","Substance Abuse",4,0.0,"N/A","2008-08-19",2008
+1099,"Matt","Jones","Wide Receiver","Jacksonville Jaguars","Substance Abuse",3,110294.0,"N/A","2008-10-21",2008
+1100,"Stephen","Cooper","Linebacker","San Diego Chargers","Substance Abuse",4,470588.0,"N/A","2008-04-15",2008
+1101,"Ryan","Clark","Safety","Pittsburgh Steelers","Personal Messages",0,5000.0,"Week 8","2008-10-30",2008
+1102,"Levi","Brown","Left Tackle","Arizona Cardinals","Chop Block",0,5000.0,"Week 7","2009-10-30",2009
+1103,"Donte","Stallworth","Wide Receiver","Cleveland Browns","""Manslaughter, Driving Under Influence""",16,745000.0,"N/A","2009-08-13",2009
+1104,"Asante","Samuel","Cornerback","Philadelphia Eagles","Face Mask",0,5000.0,"Week 5","2009-10-16",2009
+1105,"Anthony","Spencer","Defense","Dallas Cowboys","Face Mask",0,5000.0,"Week 4","2009-10-09",2009
+1106,"Al","Harris","Cornerback","Green Bay Packers","Face Mask",0,5000.0,"Week 8","2009-11-06",2009
+1107,"B.J.","Raji","Defense","Green Bay Packers","Face Mask",0,5000.0,"Week 8","2009-11-06",2009
+1108,"Cortland","Finnegan","Cornerback","Tennessee Titans","Late Hit",0,10000.0,"Week 10","2009-11-21",2009
+1109,"Trent","Cole","Outside Linebacker","Philadelphia Eagles","Fighting",0,15000.0,"Week 14","2009-12-16",2009
+1110,"Tesla","OHara","Center","New York Giants","Fighting",0,15000.0,"Week 14","2009-12-16",2009
+1111,"Brandon","Jacobs","Running Backs","New York Giants","Fighting",0,7500.0,"Week 15","2009-12-24",2009
+1112,"Albert","Haynesworth","Defensive Tackle","Washington Redskins","Fighting",0,5000.0,"Week 9","2009-11-12",2009
+1113,"LaRon","Landry","Safety","Washington Redskins","Fighting",0,7500.0,"Week 9","2009-11-12",2009
+1114,"Albert","Haynesworth","Defensive Tackle","Washington Redskins","Fighting",0,10000.0,"Week 15","2009-12-24",2009
+1115,"Darnell","Dockett","Defense","Arizona Cardinals","Helmet-to-Helmet Hit",0,5000.0,"Week 8","2009-11-06",2009
+1116,"Jay","Ratliff","Defensive Tackle","Dallas Cowboys","Helmet-to-Helmet Hit",0,7500.0,"Week 4","2009-10-09",2009
+1117,"Alan","Ball","Cornerback","Dallas Cowboys","Hit on Defenseless Player",0,5000.0,"Week 5","2009-10-16",2009
+1118,"Eugene","Wilson","Cornerback","Houston Texans","Hit on Defenseless Player",0,5000.0,"Week 9","2009-11-14",2009
+1119,"Tyrone","Carter","Safety","Pittsburgh Steelers","Hit on Defenseless Player",0,5000.0,"Week 2","2009-09-24",2009
+1120,"Antrel","Rolle","Safety","Arizona Cardinals","Hit on Defenseless Player",0,7500.0,"Week 7","2009-10-30",2009
+1121,"Adrian","Wilson","Safety","Arizona Cardinals","Hit on Defenseless Player",0,10000.0,"Week 1","2009-09-18",2009
+1122,"Gibril","Wilson","Safety","Miami Dolphins","Hit on Defenseless Player",0,5000.0,"Week 5","2009-10-16",2009
+1123,"Anthony","Henry","Cornerback","Detroit Lions","Horse Collar Tackle",0,7500.0,"Week 4","2009-10-09",2009
+1124,"Larry","English","Outside Linebacker","San Diego Chargers","Horse Collar Tackle",0,7500.0,"Week 7","2009-10-25",2009
+1125,"Keith","Bulluck","Linebacker","Tennessee Titans","Horse Collar Tackle",0,7500.0,"Week 10","2009-11-21",2009
+1126,"Adewale","Ogunleye","Defense","Chicago Bears","Horse Collar Tackle",0,7500.0,"Week 4","2009-10-09",2009
+1127,"Trevor","Scott","Defense","Oakland Raiders","Horse Collar Tackle",0,7500.0,"Week 5","2009-10-16",2009
+1128,"Quincy","Butler","Cornerback","St. Louis Rams","Horse Collar Tackle",0,7500.0,"Week 5","2009-10-16",2009
+1129,"Brett","Favre","Quarterback","Minnesota Vikings","Peelback Block",0,10000.0,"Preseason","2009-09-04",2009
+1130,"Michael","Vick","Quarterback","Philadelphia Eagles","Dog fighting",2,191176.0,"N/A","2009-07-27",2009
+1131,"Ray","Lewis","Linebacker","Baltimore Ravens","Hit on Defenseless Player",0,25000.0,"Week 5","2009-10-16",2009
+1132,"Bart","Scott","Linebacker","New York Jets","Striking/Kicking/Kneeing",0,5000.0,"Week 14","2009-12-18",2009
+1133,"James","Harrison","Outside Linebacker","Pittsburgh Steelers","Late Hit",0,5000.0,"Week 10","2009-11-19",2009
+1134,"Jeff","King","Tight End","Carolina Panthers","Late Hit",0,5000.0,"Week 8","2009-11-06",2009
+1135,"Jeremy","Trueblood","Right Tackle","Tampa Bay Buccaneers","Late Hit",0,25000.0,"Week 13","2009-12-11",2009
+1136,"Roy","Lewis","Cornerback","Seattle Seahawks","Late Hit",0,5000.0,"Week 9","2009-11-12",2009
+1137,"Lance","Laury","Linebacker","Seattle Seahawks","Late Hit",0,5000.0,"Week 9","2009-11-12",2009
+1138,"Ryan","Mundy","Safety","Pittsburgh Steelers","Late Hit",0,10000.0,"Week 13","2009-12-14",2009
+1139,"Spencer","Havner","Linebacker","Green Bay Packers","Late Hit",0,5000.0,"Week 10","2009-11-21",2009
+1140,"Omar","Gaither","Outside Linebacker","Philadelphia Eagles","Late Hit",0,5000.0,"Week 5","2009-10-16",2009
+1141,"Dave","Tollefson","Defense","Oakland Raiders","Late Hit",0,7500.0,"Week 5","2009-10-16",2009
+1142,"Kevin","Williams","Defensive Tackle","Minnesota Vikings","Low Block",0,5000.0,"Week 15","2009-12-24",2009
+1143,"Brady","Quinn","Quarterback","Cleveland Browns","Low Block",0,7500.0,"Week 10","2009-11-18",2009
+1144,"Calvin","Pace","Outside Linebacker","New York Jets","""Substance Abuse, Performance Enhancing Drugs""",4,176470.0,"N/A","2009-07-02",2009
+1145,"Tesla","Ellis","Defense","New York Jets","Personal Conduct",1,273529.0,"N/A","2009-08-17",2009
+1146,"Dwight","Freeney","Outside Linebacker","Indianapolis Colts","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Postseason","2009-01-10",2009
+1147,"Clint","Session","Linebacker","Indianapolis Colts","Roughing the Passer",0,5000.0,"Week 8","2009-11-06",2009
+1148,"Tony","Brown","Defensive Tackle","Tennessee Titans","Roughing the Passer",0,10000.0,"Week 4","2009-10-09",2009
+1149,"Jonathan","Vilma","Outside Linebacker","New Orleans Saints","Roughing the Passer",0,10000.0,"Week 6","2009-10-23",2009
+1150,"Tommy","Kelly","Defensive Tackle","Oakland Raiders","Roughing the Passer",0,5000.0,"Week 5","2009-10-16",2009
+1151,"Brian","Cushing","Outside Linebacker","Houston Texans","Roughing the Passer",0,5000.0,"Week 5","2009-10-16",2009
+1152,"Kamerion","Wimbley","Outside Linebacker","Cleveland Browns","Roughing the Passer",0,7500.0,"Week 8","2009-11-06",2009
+1153,"Mike","Wright","Defensive Tackle","New England Patriots","Roughing the Passer",0,5000.0,"Week 4","2009-10-09",2009
+1154,"Victor","Abiamiri","Defense","Philadelphia Eagles","Roughing the Passer",0,5000.0,"Week 5","2009-10-16",2009
+1155,"Michael","Johnson","Safety","New York Giants","Roughing the Passer",0,5000.0,"Week 7","2009-10-30",2009
+1156,"Kevin","Williams","Defensive Tackle","Minnesota Vikings","Roughing the Passer",0,7500.0,"Week 5","2009-10-16",2009
+1157,"Ty","Warren","Defensive Tackle","New England Patriots","Roughing the Passer",0,5000.0,"Week 5","2009-10-16",2009
+1158,"Reggie","Nelson","Safety","Jacksonville Jaguars","Roughing the Passer",0,7500.0,"Week 10","2009-11-21",2009
+1159,"Jacob","Ford","Defense","Tennessee Titans","Roughing the Passer",0,5000.0,"Week 5","2009-10-16",2009
+1160,"Kyle","Vanden","Defense","Tennessee Titans","Roughing the Passer",0,5000.0,"Week 5","2009-10-16",2009
+1161,"Chris","Hope","Safety","Tennessee Titans","Roughing the Passer",0,10000.0,"Week 6","2009-10-23",2009
+1162,"Haloti","Ngata","Defensive Tackle","Baltimore Ravens","Roughing the Passer",0,5000.0,"Week 4","2009-10-09",2009
+1163,"Chad","Johnson","Wide Receiver","Cincinnati Bengals","Personal Messages",0,20000.0,"Week 9","2009-11-14",2009
+1164,"Philip","Rivers","Quarterback","San Diego Chargers","Taunting",0,7500.0,"Week 1","2009-09-18",2009
+1165,"Kerry","Rhodes","Safety","New York Jets","Football Into Stands",0,5000.0,"Week 12","2009-12-04",2009
+1166,"Steven","Jackson","Running Backs","St. Louis Rams","Football Into Stands",0,5000.0,"Week 12","2009-12-03",2009
+1167,"Keith","Bulluck","Linebacker","Tennessee Titans","Football Into Stands",0,10000.0,"Week 14","2009-12-18",2009
+1168,"Richie","Incognito","Guard","St. Louis Rams","Striking/Kicking/Kneeing",0,50000.0,"Week 14","2009-12-19",2009
+1169,"Shawn","Jefferson","Wide Receiver","Atlanta Falcons","Other Uniform/Equipment Violation",0,5000.0,"Week 11","2009-11-22",2009
+1170,"Brandon","Meriweather","Safety","New England Patriots","Unsportsmanlike Conduct",0,7500.0,"Week 5","2009-10-16",2009
+1171,"Logan","Mankins","Guard","New England Patriots","Unsportsmanlike Conduct",0,5000.0,"Week 5","2009-10-16",2009
+1172,"Tommie","Harris","Defensive Tackle","Chicago Bears","Unsportsmanlike Conduct",0,7500.0,"Week 9","2009-11-13",2009
+1173,"Darnell","Dockett","Defense","Arizona Cardinals","Unsportsmanlike Conduct",0,7500.0,"Week 10","2009-11-20",2009
+1174,"Johnny","Jolly","Defense","Green Bay Packers","Unsportsmanlike Conduct",0,5000.0,"Week 8","2009-11-06",2009
+1175,"Ahmad","Bradshaw","Running Backs","New York Giants","Unsportsmanlike Conduct",0,5000.0,"Week 7","2009-10-30",2009
+1176,"Ryan","Clady","Left Tackle","Denver Broncos","Striking/Kicking/Kneeing",0,5000.0,"Week 4","2009-10-09",2009
+1177,"Tony","Brown","Defensive Tackle","Tennessee Titans","Unsportsmanlike Conduct",0,20000.0,"Week 13","2009-12-11",2009
+1178,"Dwan","Edwards","Defensive Tackle","Baltimore Ravens","Unsportsmanlike Conduct",0,5000.0,"Week 10","2009-11-21",2009
+1179,"James","Ihedigbo","Safety","New York Jets","Unsportsmanlike Conduct",0,5000.0,"Week 6","2009-10-21",2009
+1180,"Marques","Murrell","Linebacker","New York Jets","Unsportsmanlike Conduct",0,5000.0,"Week 6","2009-10-21",2009
+1181,"Artis","Hicks","Guard","Minnesota Vikings","Unsportsmanlike Conduct",0,5000.0,"Week 5","2009-10-16",2009
+1182,"Flozell","Adams","Tackle","Dallas Cowboys","Unsportsmanlike Conduct",0,50000.0,"Week 13","2009-12-09",2009
+1183,"Jay","Cutler","Quarterback","Chicago Bears","Verbal or other Non-Physical Offense Against  Official",0,20000.0,"Week 9","2009-11-13",2009
+1184,"Marshawn","Lynch","Running Backs","Buffalo Bills","Personal Conduct",3,111177.0,"N/A","2009-04-09",2009
+1185,"Joselio","Hanson","Cornerback","Philadelphia Eagles","Substance Abuse",4,145882.0,"N/A","2009-11-11",2009
+1186,"Dwayne","Bowe","Wide Receiver","Kansas City Chiefs","Substance Abuse",4,108235.0,"N/A","2009-11-17",2009
+1187,"Luke","Lawton","Running Backs","Oakland Raiders","Substance Abuse",4,192471.0,"N/A","2009-12-24",2009
+1188,"Tanard","Jackson","Safety","Tampa Bay Buccaneers","Substance Abuse",4,108235.0,"N/A","2009-08-18",2009
+1189,"Sheldon","Brown","Cornerback","Philadelphia Eagles","Other Uniform/Equipment Violation",0,10000.0,"Week 2","2009-09-24",2009
+1190,"Chad","Johnson","Wide Receiver","Cincinnati Bengals","Celebration",0,30000.0,"Week 13","2009-12-09",2009
+1191,"Chad","Johnson","Wide Receiver","Cincinnati Bengals","Other Uniform/Equipment Violation",0,10000.0,"Week 7","2009-10-25",2009
+1192,"Bart","Scott","Linebacker","New York Jets","Other Uniform/Equipment Violation",0,10000.0,"Week 9","2010-11-12",2010
+1193,"Ahmad","Bradshaw","Running Backs","New York Giants","Chop Block",0,2500.0,"Week 4","2010-10-01",2010
+1194,"Arthur","Jones","Defensive Tackle","Baltimore Ravens","Chop Block",0,5000.0,"Preseason","2010-08-18",2010
+1195,"Ryan","Cook","Center","Minnesota Vikings","Chop Block",0,5000.0,"Week 3","2010-10-01",2010
+1196,"Todd","Herremans","Right Tackle","Philadelphia Eagles","Chop Block",0,5000.0,"Week 11","2010-11-24",2010
+1197,"Albert","Haynesworth","Defensive Tackle","Washington Redskins","Detrimental Conduct",4,847058.0,"N/A","2010-12-07",2010
+1198,"Pat","McAfee","Punter","Indianapolis Colts","Detrimental Conduct",1,23235.0,"N/A","2010-10-20",2010
+1199,"Clark","Haggans","Linebacker","Arizona Cardinals","Hit on Defenseless Player",0,10000.0,"Week 11","2010-11-29",2010
+1200,"Devin","McCourty","Safety","New England Patriots","Hit on Defenseless Player",0,10000.0,"Week 15","2010-12-24",2010
+1201,"Quinton","Ganther","Running Backs","Buffalo Bills","Hit on Defenseless Player",0,5000.0,"Week 13","2010-12-11",2010
+1202,"Cody","Grimm","Safety","Tampa Bay Buccaneers","Hit on Defenseless Player",0,7500.0,"Week 10","2010-11-19",2010
+1203,"Alex","Mack","Center","Cleveland Browns","Hit on Defenseless Player",0,5000.0,"Week 2","2010-09-24",2010
+1204,"Kendrick","Lewis","Safety","Kansas City Chiefs","Hit on Defenseless Player",0,5000.0,"Week 2","2010-09-24",2010
+1205,"Antoine","Winfield","Cornerback","Minnesota Vikings","Roughing the Passer",0,7500.0,"Week 15","2010-12-24",2010
+1206,"Bernard","Pollard","Safety","Houston Texans","Hit on Defenseless Player",0,40000.0,"Week 12","2010-12-03",2010
+1207,"Sherrod","Martin","Safety","Carolina Panthers","Hit on Defenseless Player",0,5000.0,"Week 1","2010-09-17",2010
+1208,"Ernie","Sims","Outside Linebacker","Philadelphia Eagles","Hit on Defenseless Player",0,50000.0,"Week 8","2010-11-03",2010
+1209,"James","Harrison","Outside Linebacker","Pittsburgh Steelers","Hit on Defenseless Player",0,75000.0,"Week 6","2010-10-19",2010
+1210,"Brandon","Meriweather","Safety","New England Patriots","Hit on Defenseless Player",0,50000.0,"Week 6","2010-10-19",2010
+1211,"Brian","Urlacher","Linebacker","Chicago Bears","Hit on Defenseless Player",0,10000.0,"Week 15","2010-12-24",2010
+1212,"Eric","Smith","Safety","New York Jets","Hit on Defenseless Player",0,7500.0,"Week 2","2010-09-23",2010
+1213,"Richard","Seymour","Defensive Tackle","Oakland Raiders","Fighting",0,25000.0,"Week 10","2010-11-22",2010
+1214,"Stevie","Johnson","Wide Receiver","Buffalo Bills","Celebration",0,10000.0,"Week 3","2010-10-01",2010
+1215,"Adam","Koets","Tackle","New York Giants","Face Mask",0,5000.0,"Week 3","2010-10-01",2010
+1216,"Hines","Ward","Wide Receiver","Pittsburgh Steelers","Face Mask",0,5000.0,"Week 2","2010-09-23",2010
+1217,"Knowshon","Moreno","Running Backs","Denver Broncos","Face Mask",0,5000.0,"Week 15","2010-12-24",2010
+1218,"Marvin","Mitchell","Outside Linebacker","Minnesota Vikings","Face Mask",0,10000.0,"Week 4","2010-10-08",2010
+1219,"Vince","Wilfork","Defensive Tackle","New England Patriots","Face Mask",0,5000.0,"Week 15","2010-12-24",2010
+1220,"Matt","Wilhelm","Linebacker","Green Bay Packers","Face Mask",0,5000.0,"Week 12","2010-11-28",2010
+1221,"Phillip","Loadholt","Right Tackle","Minnesota Vikings","Face Mask",0,20000.0,"Week 7","2010-10-29",2010
+1222,"Clay","Matthews","Outside Linebacker","Green Bay Packers","Face Mask",0,5000.0,"Week 3","2010-10-01",2010
+1223,"Arian","Foster","Running Backs","Houston Texans","Face Mask",0,5000.0,"Week 1","2010-09-17",2010
+1224,"Phillip","Loadholt","Right Tackle","Minnesota Vikings","Face Mask",0,10000.0,"Week 1","2010-09-17",2010
+1225,"Cortland","Finnegan","Cornerback","Tennessee Titans","Fighting",0,5000.0,"Week 2","2010-09-22",2010
+1226,"Hakeem","Nicks","Wide Receiver","New York Giants","Fighting",0,10000.0,"Preseason","2010-08-27",2010
+1227,"Ike","Taylor","Cornerback","Pittsburgh Steelers","Fighting",0,10000.0,"Preseason","2010-08-27",2010
+1228,"Cortland","Finnegan","Cornerback","Tennessee Titans","Fighting",0,25000.0,"Week 12","2010-11-29",2010
+1229,"Andre","Johnson","Wide Receiver","Houston Texans","Fighting",0,25000.0,"Week 12","2010-11-29",2010
+1230,"Cortland","Finnegan","Cornerback","Tennessee Titans","Fighting",0,10000.0,"Week 4","2010-10-08",2010
+1231,"Albert","Haynesworth","Defensive Tackle","Washington Redskins","Fighting",0,7500.0,"Week 7","2010-10-29",2010
+1232,"Michael","Oher","Right Tackle","Baltimore Ravens","Fighting",0,5000.0,"Week 3","2010-10-01",2010
+1233,"Cortland","Finnegan","Cornerback","Tennessee Titans","Fighting",0,5000.0,"Week 3","2010-09-30",2010
+1234,"Nate","Burleson","Wide Receiver","Detroit Lions","Personal Messages",0,15000.0,"Week 5","2010-10-14",2010
+1235,"Brandon","Jacobs","Running Backs","New York Giants","Football Into Stands",0,10000.0,"Week 2","2010-09-22",2010
+1236,"Asante","Samuel","Cornerback","Philadelphia Eagles","Helmet-to-Helmet Hit",0,40000.0,"Week 11","2010-11-24",2010
+1237,"Will","Witherspoon","Outside Linebacker","Tennessee Titans","Helmet-to-Helmet Hit",0,40000.0,"Week 11","2010-11-24",2010
+1238,"Sherrod","Martin","Safety","Carolina Panthers","Helmet-to-Helmet Hit",0,40000.0,"Week 12","2010-12-01",2010
+1239,"Jameel","McClain","Outside Linebacker","Baltimore Ravens","Helmet-to-Helmet Hit",0,40000.0,"Week 13","2010-12-06",2010
+1240,"Don","Carey","Safety","Jacksonville Jaguars","Helmet-to-Helmet Hit",0,12500.0,"Week 8","2010-11-04",2010
+1241,"Ken","Hamlin","Safety","Dallas Cowboys","Hit on Defenseless Player",0,12500.0,"Postseason","2010-01-13",2010
+1242,"T.J.","Ward","Safety","Cleveland Browns","Helmet-to-Helmet Hit",0,15000.0,"Week 4","2010-10-06",2010
+1243,"Nick","Collins","Safety","Green Bay Packers","Helmet-to-Helmet Hit",0,50000.0,"Week 8","2010-11-08",2010
+1244,"Jonathan","Goff","Linebacker","New York Giants","Roughing the Passer",0,7500.0,"Week 4","2010-10-08",2010
+1245,"Dhani","Jones","Linebacker","Cincinnati Bengals","Helmet-to-Helmet Hit",0,15000.0,"Week 15","2010-12-24",2010
+1246,"Major","Wright","Safety","Chicago Bears","Helmet-to-Helmet Hit",0,10000.0,"Week 15","2010-12-24",2010
+1247,"Antoine","Bethea","Safety","Indianapolis Colts","Helmet-to-Helmet Hit",0,10000.0,"Week 15","2010-12-24",2010
+1248,"Kroy","Biermann","Outside Linebacker","Atlanta Falcons","Helmet-to-Helmet Hit",0,15000.0,"Week 15","2010-12-24",2010
+1249,"Tesla","Smith","Defensive Tackle","Kansas City Chiefs","Hit on Defenseless Player",0,10000.0,"Week 3","2010-10-01",2010
+1250,"Jon","Beason","Outside Linebacker","Carolina Panthers","Hit on Defenseless Player",0,10000.0,"Week 9","2010-11-11",2010
+1251,"Tommy","Kelly","Defensive Tackle","Oakland Raiders","Hit on Defenseless Player",0,20000.0,"Week 11","2010-11-26",2010
+1252,"Dimitri","Patterson","Cornerback","New England Patriots","Horse Collar Tackle",0,7500.0,"Week 15","2010-12-24",2010
+1253,"Quintin","Mikell","Safety","Philadelphia Eagles","Horse Collar Tackle",0,7500.0,"Week 4","2010-10-08",2010
+1254,"Kevin","Kolb","Quarterback","Philadelphia Eagles","Horse Collar Tackle",0,5000.0,"Week 6","2010-10-22",2010
+1255,"Kenny","Britt","Wide Receiver","Tennessee Titans","Other Uniform/Equipment Violation",0,5000.0,"Week 14","2010-12-15",2010
+1256,"Bernard","Pollard","Safety","Houston Texans","Late Hit",0,5000.0,"Week 6","2010-10-22",2010
+1257,"David","Stewart","Right Tackle","Tennessee Titans","Late Hit",0,20000.0,"Week 10","2010-11-19",2010
+1258,"Demorrio","Williams","Linebacker","Kansas City Chiefs","Late Hit",0,7500.0,"Week 15","2010-12-24",2010
+1259,"William","Hayes","Defense","Tennessee Titans","Late Hit",0,10000.0,"Week 6","2010-10-22",2010
+1260,"Andy","Levitre","Guard","Buffalo Bills","Late Hit",0,7500.0,"Week 13","2010-12-11",2010
+1261,"Stephen","Peterman","Guard","Detroit Lions","Late Hit",0,7500.0,"Week 6","2010-10-22",2010
+1262,"Tyler","Brayton","Defensive Tackle","Indianapolis Colts","Late Hit",0,15000.0,"Week 15","2010-12-24",2010
+1263,"James","Harrison","Outside Linebacker","Pittsburgh Steelers","Roughing the Passer",0,20000.0,"Week 8","2010-11-04",2010
+1264,"Bernard","Berrian","Wide Receiver","Minnesota Vikings","Late Hit",0,5000.0,"Week 6","2010-10-22",2010
+1265,"Kevin","Williams","Defensive Tackle","Minnesota Vikings","Late Hit",0,7500.0,"Week 15","2010-12-24",2010
+1266,"Dashon","Goldson","Safety","San Francisco 49ers","Late Hit",0,5000.0,"Week 6","2010-10-22",2010
+1267,"Antrel","Rolle","Safety","New York Giants","Late Hit",0,7500.0,"Preseason","2010-09-03",2010
+1268,"Adewale","Ogunleye","Defense","Houston Texans","Late Hit",0,5000.0,"Week 6","2010-10-22",2010
+1269,"Ray","Edwards","Defense","Minnesota Vikings","Late Hit",0,5000.0,"Preseason","2010-09-03",2010
+1270,"Anthony","Spencer","Defense","Dallas Cowboys","Late Hit",0,12500.0,"Week 14","2010-12-15",2010
+1271,"Darnell","Dockett","Defense","Arizona Cardinals","Late Hit",0,15000.0,"Week 7","2010-10-29",2010
+1272,"Jeremy","Bridges","Guard","Arizona Cardinals","Late Hit",0,20000.0,"Week 12","2010-11-29",2010
+1273,"Michael","Crabtree","Wide Receiver","San Francisco 49ers","Late Hit",0,2500.0,"Week 5","2010-10-15",2010
+1274,"Wade","Smith","Guard","Houston Texans","Leg Whip",0,5000.0,"Week 6","2010-10-22",2010
+1275,"Brandon","Spikes","Outside Linebacker","New England Patriots","""Substance Abuse, Performance Enhancing Drugs""",4,75294.0,"N/A","2010-12-10",2010
+1276,"Gerald","McRath","Linebacker","Tennessee Titans","""Substance Abuse, Performance Enhancing Drugs""",4,23235.0,"N/A","2010-06-14",2010
+1277,"Hollis","Thomas","Defensive Tackle","Carolina Panthers","""Substance Abuse, Performance Enhancing Drugs""",8,894117.0,"N/A","2010-07-01",2010
+1278,"Robert","James","Outside Linebacker","Atlanta Falcons","""Substance Abuse, Performance Enhancing Drugs""",4,20800.0,"N/A","2010-07-08",2010
+1279,"Tesla","Rogers","Defensive Tackle","Cleveland Browns","Off-court/Off-field Violation",0,400000.0,"Preseason","2010-08-31",2010
+1280,"Aqib","Talib","Cornerback","Denver Broncos","Personal Conduct",1,83382.0,"N/A","2010-08-31",2010
+1281,"Leroy","Hill","Linebacker","Seattle Seahawks","Personal Conduct",1,125000.0,"N/A","2010-07-16",2010
+1282,"Haloti","Ngata","Defensive Tackle","Baltimore Ravens","Roughing the Passer",0,15000.0,"Week 13","2010-12-06",2010
+1283,"Bobby","McCray","Defense","New Orleans Saints","Roughing the Passer",0,20000.0,"Postseason","2010-01-29",2010
+1284,"Dave","Ball","Defense","Tennessee Titans","Roughing the Passer",0,5000.0,"Week 6","2010-10-22",2010
+1285,"Robert","Mathis","Outside Linebacker","Indianapolis Colts","Roughing the Passer",0,10000.0,"Week 15","2010-12-24",2010
+1286,"Ed","Reed","Safety","Houston Texans","Roughing the Passer",0,10000.0,"Week 15","2010-12-24",2010
+1287,"Ndamukong","Suh","Defensive Tackle","Detroit Lions","Roughing the Passer",0,7500.0,"Preseason","2010-09-03",2010
+1288,"Cliff","Avril","Defense","Detroit Lions","Roughing the Passer",0,15000.0,"Week 13","2010-12-08",2010
+1289,"Frank","Zombo","Outside Linebacker","Green Bay Packers","Roughing the Passer",0,7500.0,"Week 3","2010-09-30",2010
+1290,"Malcolm","Jenkins","Safety","New Orleans Saints","Roughing the Passer",0,10000.0,"Week 6","2010-10-22",2010
+1291,"Trent","Cole","Outside Linebacker","Philadelphia Eagles","Roughing the Passer",0,20000.0,"Week 13","2010-12-11",2010
+1292,"James","Harrison","Outside Linebacker","Pittsburgh Steelers","Roughing the Passer",0,25000.0,"Week 12","2010-11-30",2010
+1293,"Alan","Branch","Defense","Arizona Cardinals","Roughing the Passer",0,10000.0,"Week 13","2010-12-11",2010
+1294,"Antwan","Barnes","Outside Linebacker","San Diego Chargers","Roughing the Passer",0,5000.0,"Week 6","2010-10-22",2010
+1295,"Ray","Edwards","Defense","Minnesota Vikings","Roughing the Passer",0,5000.0,"Week 3","2010-10-01",2010
+1296,"LaMarr","Woodley","Outside Linebacker","Pittsburgh Steelers","Roughing the Passer",0,12500.0,"Week 10","2010-11-19",2010
+1297,"James","Harrison","Outside Linebacker","Pittsburgh Steelers","Roughing the Passer",0,5000.0,"Week 2","2010-09-22",2010
+1298,"Chad","Johnson","Wide Receiver","Cincinnati Bengals","Other Uniform/Equipment Violation",0,25000.0,"Preseason","2010-08-26",2010
+1299,"Terrell","Owens","Wide Receiver","Cincinnati Bengals","Other Uniform/Equipment Violation",0,5000.0,"Week 5","2010-10-15",2010
+1300,"Chris","Kemoeatu","Guard","Pittsburgh Steelers","Spearing",0,5000.0,"Week 2","2010-09-23",2010
+1301,"Jason","Babin","Defense","Tennessee Titans","Spearing",0,5000.0,"Week 3","2010-09-30",2010
+1302,"Dunta","Robinson","Cornerback","Atlanta Falcons","Spearing",0,50000.0,"Week 5","2010-10-19",2010
+1303,"Ray","Edwards","Defense","Minnesota Vikings","Spearing",0,20000.0,"Week 6","2010-10-22",2010
+1304,"Terence","Newman","Cornerback","Cincinnati Bengals","Spearing",0,5000.0,"Week 15","2010-12-24",2010
+1305,"Antwan","Odom","Defense","Cincinnati Bengals","Substance Abuse",4,800000.0,"N/A","2010-10-15",2010
+1306,"Brian","Cushing","Outside Linebacker","Houston Texans","Substance Abuse",4,92941.0,"N/A","2010-05-07",2010
+1307,"Duane","Brown","Left Tackle","Houston Texans","Substance Abuse",4,149294.0,"N/A","2010-09-21",2010
+1308,"Duke","Robinson","Tackle","Carolina Panthers","Substance Abuse",4,92941.0,"N/A","2010-12-10",2010
+1309,"Jonathan","Babineaux","Defense","Atlanta Falcons","Substance Abuse",1,129411.0,"N/A","2010-08-03",2010
+1310,"Lendale","White","Running Backs","Seattle Seahawks","Substance Abuse",4,148235.0,"N/A","2010-07-01",2010
+1311,"Matt","Clapp","Running Backs","","Substance Abuse",4,0.0,"N/A","2010-11-01",2010
+1312,"Maurice","Purify","Wide Receiver","Cincinnati Bengals","Substance Abuse",1,0.0,"N/A","2010-08-30",2010
+1313,"Ryan","Tucker","Tackle","","Substance Abuse",8,0.0,"N/A","2010-03-07",2010
+1314,"Santonio","Holmes","Wide Receiver","New York Jets","Substance Abuse",4,148235.0,"N/A","2010-03-07",2010
+1315,"Shawn","Nelson","Tight End","Buffalo Bills","Substance Abuse",4,92941.0,"N/A","2010-08-20",2010
+1316,"Steve","Gregory","Safety","San Diego Chargers","Substance Abuse",4,188235.0,"N/A","2010-10-04",2010
+1317,"Tanard","Jackson","Safety","Tampa Bay Buccaneers","Substance Abuse",20,1352050.0,"N/A","2010-09-22",2010
+1318,"Vincent","Jackson","Wide Receiver","San Diego Chargers","Substance Abuse",3,120352.0,"N/A","2010-07-01",2010
+1319,"Johnny","Jolly","Defense","Green Bay Packers","""Substance Abuse, Personal Conduct""",48,0.0,"N/A","2010-07-16",2010
+1320,"Earl","Thomas","Safety","Seattle Seahawks","Taunting",0,7500.0,"Week 4","2010-10-01",2010
+1321,"Michael","Crabtree","Wide Receiver","San Francisco 49ers","Football Into Stands",0,5000.0,"N/A","2010-10-15",2010
+1322,"Randy","Moss","Wide Receiver","Minnesota Vikings","Other Uniform/Equipment Violation",0,25000.0,"Week 7","2010-10-29",2010
+1323,"David","Diehl","Right Tackle","New York Giants","Horse Collar Tackle",0,5000.0,"Week 3","2010-10-01",2010
+1324,"Kareem","McKenzie","Tackle","New York Giants","Helmet-to-Helmet Hit",0,5000.0,"Week 3","2010-10-01",2010
+1325,"Rolando","McClain","Outside Linebacker","Oakland Raiders","Striking/Kicking/Kneeing",0,5000.0,"Week 13","2010-12-08",2010
+1326,"Ndamukong","Suh","Defensive Tackle","Detroit Lions","Roughing the Passer",0,15000.0,"Week 13","2010-12-08",2010
+1327,"Louis","Delmas","Safety","Detroit Lions","Unsportsmanlike Conduct",0,5000.0,"Week 3","2010-10-01",2010
+1328,"Quinn","Ojinnaka","Tackle","Atlanta Falcons","Personal Conduct",1,69176.0,"N/A","2010-06-03",2010
+1329,"Ben","Roethlisberger","Quarterback","Pittsburgh Steelers","Personal Conduct",4,1894120.0,"N/A","2010-04-21",2010
+1330,"Jason","Ferguson","Defensive Tackle","","Substance Abuse",8,0.0,"N/A","2010-03-07",2010
+1331,"Michael","Oher","Right Tackle","Baltimore Ravens","Personal Messages",0,5000.0,"Week 12","2010-12-03",2010
+1332,"Ed","Gant","Wide Receiver","Arizona Cardinals","""Substance Abuse, Performance Enhancing Drugs""",4,75294.0,"N/A","2010-06-21",2010
+1333,"Cary","Williams","Cornerback","Baltimore Ravens","Personal Conduct",2,46470.0,"N/A","2010-07-23",2010
+1334,"Tony","McDaniel","Defensive Tackle","Miami Dolphins","Personal Conduct",1,109117.0,"N/A","2010-09-28",2010
+1335,"Chad","Johnson","Wide Receiver","Cincinnati Bengals","Other Uniform/Equipment Violation",0,20000.0,"Week 9","2010-11-12",2010
+1336,"Bernard","Berrian","Wide Receiver","Minnesota Vikings","Other Uniform/Equipment Violation",0,5000.0,"Week 9","2010-11-12",2010
+1337,"Brandon","Jacobs","Running Backs","New York Giants","Unsportsmanlike Conduct",0,20000.0,"Week 11","2010-11-26",2010
+1338,"Winston","Venable","Safety","Chicago Bears","Hit on Defenseless Player",0,20000.0,"Preseason","2011-09-08",2011
+1339,"Chris","Cook","Cornerback","Minnesota Vikings","Domestic Violence",10,264705.0,"N/A","2011-10-25",2011
+1340,"Brandon","Jacobs","Running Backs","San Francisco 49ers","Fighting",0,20000.0,"Preseason","2011-09-09",2011
+1341,"Muhammad","Wilkerson","Defense","New York Jets","Fighting",0,10000.0,"Preseason","2011-09-09",2011
+1342,"Rob","Ninkovich","Outside Linebacker","New England Patriots","Helmet-to-Helmet Hit",0,15000.0,"Week 3","2011-09-30",2011
+1343,"William","Moore","Safety","Atlanta Falcons","Helmet-to-Helmet Hit",0,7500.0,"Week 3","2011-09-28",2011
+1344,"Danieal","Manning","Safety","Houston Texans","Late Hit",0,15000.0,"Week 3","2011-09-30",2011
+1345,"Brandon","Meriweather","Safety","Chicago Bears","Hit on Defenseless Player",0,25000.0,"Week 5","2011-10-14",2011
+1346,"Bradley","Fletcher","Cornerback","St. Louis Rams","Horse Collar Tackle",0,7500.0,"Week 3","2011-09-30",2011
+1347,"Roman","Harper","Safety","New Orleans Saints","Late Hit",0,15000.0,"Week 5","2011-10-12",2011
+1348,"Bradley","Fletcher","Cornerback","St. Louis Rams","Late Hit",0,7500.0,"Week 3","2011-09-30",2011
+1349,"Antonio","Brown","Wide Receiver","Pittsburgh Steelers","Low Block",0,7500.0,"Week 3","2011-09-28",2011
+1350,"Jacob","Bell","Guard","St. Louis Rams","Chop Block",0,7500.0,"Week 3","2011-09-30",2011
+1351,"Doug","Legursky","Center","Pittsburgh Steelers","Low Block",0,7500.0,"Week 2","2011-09-23",2011
+1352,"Rob","Jackson","Outside Linebacker","Washington Redskins","Roughing the Passer",0,15000.0,"Week 4","2011-10-07",2011
+1353,"Jason","Smith","Left Tackle","St. Louis Rams","Face Mask",0,7500.0,"Week 3","2011-09-30",2011
+1354,"Terrell","Suggs","Outside Linebacker","Baltimore Ravens","Face Mask",0,7500.0,"Week 3","2011-09-30",2011
+1355,"Jeff","King","Tight End","Arizona Cardinals","Face Mask",0,7500.0,"Week 2","2011-09-23",2011
+1356,"Ike","Taylor","Cornerback","Pittsburgh Steelers","Helmet-to-Helmet Hit",0,15000.0,"Week 1","2011-09-16",2011
+1357,"Brian","Price","Defensive Tackle","Chicago Bears","Hit on Defenseless Player",0,7500.0,"Week 3","2011-09-30",2011
+1358,"Cullen","Jenkins","Defensive Tackle","Philadelphia Eagles","Roughing the Passer",0,15000.0,"Week 2","2011-09-21",2011
+1359,"Mohamed","Massaquoi","Wide Receiver","Cleveland Browns","Celebration",0,7500.0,"Week 3","2011-09-28",2011
+1360,"Patrick","Chung","Safety","New England Patriots","Hit on Defenseless Player",0,7500.0,"Week 4","2011-10-07",2011
+1361,"Erik","Walden","Outside Linebacker","Green Bay Packers","Roughing the Passer",0,15000.0,"Week 3","2011-09-30",2011
+1362,"Jason","Jones","Defense","Tennessee Titans","Roughing the Passer",0,15000.0,"Week 3","2011-09-28",2011
+1363,"Andre","Carter","Defense","New England Patriots","Roughing the Passer",0,15000.0,"Week 2","2011-09-23",2011
+1364,"Dunta","Robinson","Cornerback","Atlanta Falcons","Hit on Defenseless Player",0,25000.0,"Week 6","2011-10-23",2011
+1365,"Derrick","Morgan","Outside Linebacker","Tennessee Titans","Roughing the Passer",0,7500.0,"Week 2","2011-09-21",2011
+1366,"Igor","Olshansky","Defense","Miami Dolphins","Roughing the Passer",0,10000.0,"Week 3","2011-09-30",2011
+1367,"Yeremiah","Bell","Safety","Miami Dolphins","Roughing the Passer",0,15000.0,"Week 3","2011-09-30",2011
+1368,"Kenny","Phillips","Safety","New York Giants","Hit on Defenseless Player",0,20000.0,"Week 5","2011-10-12",2011
+1369,"Phil","Taylor","Defense","Cleveland Browns","Roughing the Passer",0,7500.0,"Week 3","2011-09-28",2011
+1370,"Patrick","Peterson","Cornerback","Arizona Cardinals","Late Hit",0,5000.0,"Week 4","2011-10-07",2011
+1371,"Troy","Polamalu","Safety","Pittsburgh Steelers","Horse Collar Tackle",0,15000.0,"Week 5","2011-09-16",2011
+1372,"Chad","Greenway","Outside Linebacker","Minnesota Vikings","Horse Collar Tackle",0,7500.0,"Week 3","2011-09-30",2011
+1373,"Brendon","Ayanbadejo","Linebacker","Baltimore Ravens","Horse Collar Tackle",0,15000.0,"Week 1","2011-09-16",2011
+1374,"Charles","Tillman","Cornerback","Chicago Bears","Horse Collar Tackle",0,7500.0,"Week 5","2011-10-14",2011
+1375,"Andre","Roberts","Wide Receiver","Arizona Cardinals","Chop Block",0,7500.0,"Week 1","2011-09-16",2011
+1376,"Brandon","Marshall","Wide Receiver","Miami Dolphins","Late Hit",0,7500.0,"Week 3","2011-09-30",2011
+1377,"James","Farrior","Linebacker","Pittsburgh Steelers","Roughing the Passer",0,15000.0,"Week 3","2011-09-28",2011
+1378,"Nate","Burleson","Wide Receiver","Detroit Lions","Other Uniform/Equipment Violation",0,5000.0,"Week 5","2011-10-12",2011
+1379,"Matt","Birk","Center","Baltimore Ravens","Other Uniform/Equipment Violation",0,5000.0,"Week 5","2011-10-12",2011
+1380,"C.J.","Ah","Defense","St. Louis Rams","Roughing the Passer",0,15000.0,"Week 1","2011-09-16",2011
+1381,"Haloti","Ngata","Defensive Tackle","Baltimore Ravens","Roughing the Passer",0,15000.0,"Week 4","2011-10-07",2011
+1382,"Trent","Cole","Outside Linebacker","Philadelphia Eagles","Roughing the Passer",0,15000.0,"Week 1","2011-09-16",2011
+1383,"Ahmad","Brooks","Outside Linebacker","San Francisco 49ers","Roughing the Passer",0,7500.0,"Week 1","2011-09-16",2011
+1384,"Raheem","Brock","Defensive Tackle","Seattle Seahawks","Roughing the Passer",0,15000.0,"Week 2","2011-09-23",2011
+1385,"Antrel","Rolle","Safety","New York Giants","Helmet Spearing",0,20000.0,"Week 1","2011-09-16",2011
+1386,"Perry","Riley","Outside Linebacker","Washington Redskins","Hit on Defenseless Player",0,15000.0,"Week 4","2011-10-07",2011
+1387,"Kenny","Phillips","Safety","New York Giants","Striking/Kicking/Kneeing",0,10000.0,"Week 1","2011-09-16",2011
+1388,"Travis","LaBoy","Defensive Tackle","San Diego Chargers","Roughing the Passer",0,15000.0,"Week 3","2011-09-30",2011
+1389,"Dan","Batten","Defense","Buffalo Bills","Roughing the Passer",0,15000.0,"Week 5","2011-10-14",2011
+1390,"Patrick","Chung","Safety","New England Patriots","Horse Collar Tackle",0,7500.0,"Week 1","2011-09-16",2011
+1391,"Charles","Woodson","Safety","Green Bay Packers","Fighting",0,10000.0,"Week 1","2011-09-16",2011
+1392,"Daniel","Graham","Tight End","Tennessee Titans","Football Into Stands",0,5000.0,"Week 3","2011-09-28",2011
+1393,"Danario","Alexander","Wide Receiver","St. Louis Rams","Late Hit",0,5000.0,"Week 3","2011-09-30",2011
+1394,"Troy","Polamalu","Safety","Pittsburgh Steelers","Other Uniform/Equipment Violation",0,10000.0,"Week 6","2011-10-21",2011
+1395,"Eric","Wright","Cornerback","Detroit Lions","Other Uniform/Equipment Violation",0,5000.0,"Week 5","2011-10-12",2011
+1396,"Brian","Orakpo","Outside Linebacker","Washington Redskins","Roughing the Passer",0,15000.0,"Week 6","2011-10-21",2011
+1397,"Brandon","Meriweather","Safety","Chicago Bears","Helmet-to-Helmet Hit",0,20000.0,"Week 4","2011-10-04",2011
+1398,"Niles","Paul","Tight End","Washington Redskins","Hit on Defenseless Player",0,20000.0,"Week 4","2011-10-05",2011
+1399,"Eric","Weddle","Safety","San Diego Chargers","Helmet-to-Helmet Hit",0,15000.0,"Week 2","2011-09-23",2011
+1400,"Ray","Lewis","Linebacker","Baltimore Ravens","Helmet-to-Helmet Hit",0,20000.0,"Week 9","2011-11-09",2011
+1401,"Ryan","Clark","Safety","Pittsburgh Steelers","Helmet-to-Helmet Hit",0,40000.0,"Week 9","2011-11-10",2011
+1402,"Justin","Smith","Defense","San Francisco 49ers","Roughing the Passer",0,15000.0,"Week 8","2011-11-04",2011
+1403,"Von","Miller","Outside Linebacker","Denver Broncos","Roughing the Passer",0,15000.0,"Week 10","2011-11-21",2011
+1404,"Aldon","Smith","Outside Linebacker","San Francisco 49ers","Roughing the Passer",0,15000.0,"Week 6","2011-10-21",2011
+1405,"Matthew","Stafford","Quarterback","Detroit Lions","Chop Block",0,7500.0,"Week 10","2011-11-18",2011
+1406,"James","Harrison","Outside Linebacker","Pittsburgh Steelers","Illegal Hit",1,73529.0,"N/A","2011-12-13",2011
+1407,"Brian","Robison","Defense","Minnesota Vikings","Striking/Kicking/Kneeing",0,20000.0,"Week 7","2011-10-26",2011
+1408,"Ryan","Clark","Safety","Pittsburgh Steelers","Late Hit",0,15000.0,"Week 8","2011-11-04",2011
+1409,"Anthony","Davis","Right Tackle","San Francisco 49ers","Leg Whip",0,25000.0,"Week 4","2011-10-06",2011
+1410,"Richard","Seymour","Defensive Tackle","Oakland Raiders","Roughing the Passer",0,15000.0,"Week 14","2011-12-11",2011
+1411,"Chris","Kemoeatu","Guard","Pittsburgh Steelers","Late Hit",0,25000.0,"Week 7","2011-10-27",2011
+1412,"Antonio","Garay","Defense","San Diego Chargers","Low Block",0,15000.0,"Week 2","2011-09-22",2011
+1413,"Nick","Barnett","Outside Linebacker","Buffalo Bills","Late Hit",0,7500.0,"Week 3","2011-09-30",2011
+1414,"Ahmard","Hall","Fullback","Tennessee Titans","""Substance Abuse, Performance Enhancing Drugs""",4,200000.0,"N/A","2011-09-03",2011
+1415,"Austin","Pettis","Wide Receiver","St. Louis Rams","""Substance Abuse, Performance Enhancing Drugs""",4,88235.0,"N/A","2011-12-21",2011
+1416,"Jimmy","Kennedy","Defensive Tackle","New York Giants","""Substance Abuse, Performance Enhancing Drugs""",4,190588.0,"N/A","2011-10-12",2011
+1417,"Trent","Williams","Left Tackle","Washington Redskins","""Substance Abuse, Performance Enhancing Drugs""",4,1847530.0,"N/A","2011-12-04",2011
+1418,"Vai","Taua","Running Backs","Seattle Seahawks","""Substance Abuse, Performance Enhancing Drugs""",4,88235.0,"N/A","2011-12-03",2011
+1419,"Phillip","Buchanon","Cornerback","Washington Redskins","""Substance Abuse, Performance Enhancing Drugs""",4,214117.0,"N/A","2011-08-02",2011
+1420,"Brandon","Underwood","Cornerback","Green Bay Packers","Personal Conduct",2,61764.0,"N/A","2011-09-28",2011
+1421,"Cedric","Benson","Running Backs","Cincinnati Bengals","Personal Conduct",1,176647.0,"N/A","2011-10-18",2011
+1422,"Kevin","Williams","Defensive Tackle","Minnesota Vikings","Roughing the Passer",0,15000.0,"Week 6","2011-10-21",2011
+1423,"D.J.","Moore","Cornerback","Chicago Bears","Helmet-to-Helmet Hit",0,15000.0,"Week 10","2011-11-18",2011
+1424,"Nick","Fairley","Defensive Tackle","Detroit Lions","Roughing the Passer",0,15000.0,"Week 10","2011-11-18",2011
+1425,"Jason","Babin","Defense","Jacksonville Jaguars","Roughing the Passer",0,15000.0,"Week 3","2011-10-06",2011
+1426,"Ndamukong","Suh","Defensive Tackle","Detroit Lions","Roughing the Passer",0,20000.0,"Preseason","2011-08-17",2011
+1427,"Bobbie","Williams","Guard","Cincinnati Bengals","Substance Abuse",4,611764.0,"N/A","2011-09-03",2011
+1428,"Charles","Grant","Defense","Chicago Bears","Substance Abuse",2,264705.0,"N/A","2011-09-03",2011
+1429,"David","Reed","Wide Receiver","Baltimore Ravens","Substance Abuse",1,26470.0,"N/A","2011-09-03",2011
+1430,"Jaimie","Thomas","Tackle","Indianapolis Colts","Substance Abuse",4,115294.0,"N/A","2011-10-05",2011
+1431,"John","Moffitt","Guard","Seattle Seahawks","Substance Abuse",4,88325.0,"N/A","2011-12-06",2011
+1432,"Kevin","Williams","Defensive Tackle","Minnesota Vikings","Substance Abuse",2,1411760.0,"N/A","2011-09-02",2011
+1433,"Pat","Williams","Defensive Tackle","Minnesota Vikings","Substance Abuse",2,0.0,"N/A","2011-09-03",2011
+1434,"Will","Smith","Outside Linebacker","New Orleans Saints","Substance Abuse",2,1411760.0,"N/A","2011-09-02",2011
+1435,"Brandon","Lang","Linebacker","San Diego Chargers","Undisclosed",4,75294.0,"N/A","2011-09-03",2011
+1436,"Dominic","Rhodes","Running Backs","Indianapolis Colts","Undisclosed",1,11764.0,"N/A","2011-09-03",2011
+1437,"Eric","Alexander","Linebacker","Cleveland Browns","Undisclosed",4,150588.0,"N/A","2011-09-03",2011
+1438,"Eric","Barton","Linebacker","Cleveland Browns","Undisclosed",4,0.0,"N/A","2011-09-03",2011
+1439,"Robert","Brewster","Tackle","Dallas Cowboys","Undisclosed",4,112941.0,"N/A","2011-09-03",2011
+1440,"Terrelle","Pryor","Quarterback","Oakland Raiders","Undisclosed",5,110294.0,"N/A","2011-08-22",2011
+1441,"Ndamukong","Suh","Defensive Tackle","Detroit Lions","Unsportsmanlike Conduct",2,165294.0,"N/A","2011-11-29",2011
+1442,"Fred","Davis","Tight End","Washington Redskins","Substance Abuse",4,141176.0,"N/A","2011-12-04",2011
+1443,"Brandon","Deaderick","Defensive Tackle","New England Patriots","VIolation of Team Policy",1,26470.0,"N/A","2011-01-03",2011
+1444,"Wes","Welker","Wide Receiver","New England Patriots","Other Uniform/Equipment Violation",0,10000.0,"Week 17","2011-12-31",2011
+1445,"Jonathan","Vilma","Outside Linebacker","New Orleans Saints","Detrimental Conduct",12,1600000.0,"N/A","2012-10-09",2012
+1446,"Will","Smith","Outside Linebacker","New Orleans Saints","Detrimental Conduct",4,1619380.0,"N/A","2012-10-09",2012
+1447,"Brandon","Jacobs","Running Backs","San Francisco 49ers","Detrimental Conduct",3,168000.0,"N/A","2012-12-10",2012
+1448,"Rashard","Mendenhall","Running Backs","Pittsburgh Steelers","Detrimental Conduct",1,36029.0,"N/A","2012-12-11",2012
+1449,"D.J.","Williams","Outside Linebacker","Denver Broncos","Driving Under Influence",6,1729410.0,"N/A","2012-08-15",2012
+1450,"Golden","Tate","Wide Receiver","Seattle Seahawks","Blindside Block",0,21000.0,"Week 2","2012-09-21",2012
+1451,"Gosder","Cherilus","Right Tackle","Detroit Lions","Chop Block",0,10000.0,"Week 14","2012-12-14",2012
+1452,"Michael","Oher","Right Tackle","Baltimore Ravens","Chop Block",0,10000.0,"Week 16","2012-12-28",2012
+1453,"SenDerrick","Marks","Defensive Tackle","Tennessee Titans","Face Mask",0,7875.0,"Week 16","2012-12-28",2012
+1454,"Jasper","Brinkley","Outside Linebacker","Minnesota Vikings","Face Mask",0,7875.0,"Week 13","2012-12-07",2012
+1455,"Quinton","Coples","Outside Linebacker","New York Jets","Face Mask",0,15000.0,"Week 14","2012-12-14",2012
+1456,"Robert","Quinn","Defense","St. Louis Rams","Helmet-to-Helmet Hit",0,15750.0,"Week 5","2012-10-12",2012
+1457,"Jerron","McMillian","Safety","Green Bay Packers","Helmet-to-Helmet Hit",0,21000.0,"Week 12","2012-11-30",2012
+1458,"Mason","Foster","Outside Linebacker","Tampa Bay Buccaneers","Helmet-to-Helmet Hit",0,21000.0,"Week 2","2012-09-21",2012
+1459,"Jason","Jones","Defense","Seattle Seahawks","Helmet-to-Helmet Hit",0,15750.0,"Week 6","2012-10-19",2012
+1460,"Dashon","Goldson","Safety","San Francisco 49ers","Helmet-to-Helmet Hit",0,21000.0,"Week 15","2012-12-20",2012
+1461,"Ed","Reed","Safety","Baltimore Ravens","Helmet-to-Helmet Hit",0,21000.0,"Week 3","2012-09-28",2012
+1462,"Garrett","McIntyre","Outside Linebacker","New York Jets","Helmet-to-Helmet Hit",0,15750.0,"Week 11","2012-11-23",2012
+1463,"Ed","Reed","Safety","Baltimore Ravens","Helmet-to-Helmet Hit",0,50000.0,"Week 11","2012-11-21",2012
+1464,"Kareem","Jackson","Cornerback","Houston Texans","Hit on Defenseless Player",0,21000.0,"Week 17","2012-12-28",2012
+1465,"Brandon","Harris","Cornerback","Houston Texans","Hit on Defenseless Player",0,21000.0,"Week 12","2012-11-30",2012
+1466,"Ed","Reed","Safety","Baltimore Ravens","Hit on Defenseless Player",0,55000.0,"Week 16","2012-12-27",2012
+1467,"Lawrence","Timmons","Outside Linebacker","Pittsburgh Steelers","Roughing the Passer",0,21000.0,"Week 2","2012-09-21",2012
+1468,"Navorro","Bowman","Outside Linebacker","San Francisco 49ers","Late Hit",0,10000.0,"Week 14","2012-12-07",2012
+1469,"Dejon","Gomes","Safety","Washington Redskins","Hit on Defenseless Player",0,8000.0,"Week 1","2012-09-14",2012
+1470,"Chris","Long","Defense","St. Louis Rams","Hit on Defenseless Player",0,15750.0,"Week 12","2012-11-30",2012
+1471,"Earl","Thomas","Safety","Seattle Seahawks","Hit on Defenseless Player",0,15750.0,"Week 12","2012-11-30",2012
+1472,"Marcus","Dowtin","Outside Linebacker","New York Jets","Hit on Defenseless Player",0,15750.0,"Week 8","2012-11-02",2012
+1473,"Christopher","Conte","Safety","Chicago Bears","Hit on Defenseless Player",0,21000.0,"Week 8","2012-11-02",2012
+1474,"Robert","Quinn","Defense","St. Louis Rams","Hit on Defenseless Player",0,7857.0,"Week 2","2012-09-21",2012
+1475,"DeAngelo","Hall","Cornerback","Washington Redskins","Horse Collar Tackle",0,20000.0,"Week 12","2012-11-30",2012
+1476,"Tyron","Smith","Left Tackle","Dallas Cowboys","Horse Collar Tackle",0,15750.0,"Week 1","2012-09-14",2012
+1477,"LaRon","Landry","Safety","New York Jets","Horse Collar Tackle",0,15750.0,"Week 2","2012-09-21",2012
+1478,"Brian","Urlacher","Linebacker","Chicago Bears","Horse Collar Tackle",0,21000.0,"Week 13","2012-12-07",2012
+1479,"Tyvon","Branch","Safety","Oakland Raiders","Horse Collar Tackle",0,15750.0,"Week 9","2012-11-09",2012
+1480,"Michael","Griffin","Safety","Tennessee Titans","Horse Collar Tackle",0,20000.0,"Week 9","2012-11-09",2012
+1481,"Prince","Amukamara","Cornerback","New York Giants","Horse Collar Tackle",0,15750.0,"Week 14","2012-12-14",2012
+1482,"Alphonso","Smith","Cornerback","Detroit Lions","Horse Collar Tackle",0,15750.0,"Week 7","2012-10-26",2012
+1483,"Jason","Babin","Defense","Philadelphia Eagles","Horse Collar Tackle",0,15750.0,"Week 3","2012-09-28",2012
+1484,"Nick","Fairley","Defensive Tackle","Detroit Lions","Horse Collar Tackle",0,15750.0,"Week 13","2012-12-07",2012
+1485,"Kevin","Vickerson","Defensive Tackle","Denver Broncos","Horse Collar Tackle",0,15000.0,"Week 10","2012-11-15",2012
+1486,"Harrison","Smith","Safety","Minnesota Vikings","Horse Collar Tackle",0,15750.0,"Week 6","2012-10-19",2012
+1487,"Brian","Urlacher","Linebacker","Chicago Bears","Horse Collar Tackle",0,15750.0,"Week 12","2012-11-30",2012
+1488,"Ted","Larsen","Guard","Tampa Bay Buccaneers","Late Hit",0,7875.0,"Week 11","2012-11-23",2012
+1489,"DeAngelo","Hall","Cornerback","Washington Redskins","Late Hit",0,15750.0,"Week 12","2012-11-30",2012
+1490,"Dawan","Landry","Safety","Jacksonville Jaguars","Late Hit",0,10000.0,"Week 10","2012-11-16",2012
+1491,"Terrance","Knighton","Defensive Tackle","Jacksonville Jaguars","Late Hit",0,25000.0,"Week 10","2012-11-16",2012
+1492,"Jerry","Hughes","Defense","Indianapolis Colts","Late Hit",0,21000.0,"Week 10","2012-11-16",2012
+1493,"Charles","Tillman","Cornerback","Chicago Bears","Late Hit",0,7875.0,"Week 14","2012-12-14",2012
+1494,"Anquan","Boldin","Wide Receiver","Baltimore Ravens","Late Hit",0,7875.0,"Week 12","2012-11-30",2012
+1495,"Richie","Incognito","Guard","Miami Dolphins","Late Hit",0,10000.0,"Week 10","2012-11-16",2012
+1496,"Anquan","Boldin","Wide Receiver","Baltimore Ravens","Late Hit",0,15750.0,"Week 15","2012-12-21",2012
+1497,"Jerod","Mayo","Outside Linebacker","New England Patriots","Late Hit",0,10000.0,"Week 10","2012-11-16",2012
+1498,"Alfonzo","Dennard","Cornerback","New England Patriots","Late Hit",0,7875.0,"Week 10","2012-11-16",2012
+1499,"Steve","Gregory","Safety","New England Patriots","Late Hit",0,7857.0,"Week 2","2012-09-21",2012
+1500,"Matt","Kalil","Left Tackle","Minnesota Vikings","Late Hit",0,7875.0,"Week 2","2012-09-21",2012
+1501,"Cassius","Vaughn","Cornerback","Indianapolis Colts","Late Hit",0,7875.0,"Week 9","2012-11-09",2012
+1502,"John","Wendling","Safety","Detroit Lions","Late Hit",0,7857.0,"Week 2","2012-09-21",2012
+1503,"Scott","Solomon","Defense","Tennessee Titans","Roughing the Passer",0,15750.0,"Week 3","2012-09-28",2012
+1504,"Von","Miller","Outside Linebacker","Denver Broncos","Roughing the Passer",0,21000.0,"Week 10","2012-11-15",2012
+1505,"Jasper","Brinkley","Outside Linebacker","Minnesota Vikings","Hit on Defenseless Player",0,21000.0,"Week 10","2012-11-16",2012
+1506,"Ray","McDonald","Defensive Tackle","San Francisco 49ers","Hit on Defenseless Player",0,21000.0,"Week 10","2012-11-16",2012
+1507,"DeAngelo","Hall","Cornerback","Washington Redskins","Verbal or other Non-Physical Offense Against  Official",0,30000.0,"Week 10","2012-11-14",2012
+1508,"Jasper","Brinkley","Outside Linebacker","Minnesota Vikings","Fighting",0,7875.0,"Week 2","2012-09-21",2012
+1509,"Dwayne","Allen","Tight End","Indianapolis Colts","Fighting",0,7875.0,"Week 2","2012-09-21",2012
+1510,"Mike","Tolbert","Fullback","Carolina Panthers","Blindside Block",0,21000.0,"Week 12","2012-11-30",2012
+1511,"Ryan","Taylor","Tight End","Green Bay Packers","Blindside Block",0,21000.0,"Week 9","2012-11-09",2012
+1512,"Robert","Griffin","Quarterback","Washington Redskins","Other Uniform/Equipment Violation",0,10000.0,"Week 15","2012-12-19",2012
+1513,"Charles","Godfrey","Safety","Carolina Panthers","Chop Block",0,7875.0,"Week 7","2012-10-26",2012
+1514,"Mike","Jenkins","Cornerback","Dallas Cowboys","Striking/Kicking/Kneeing",0,7875.0,"Week 12","2012-11-30",2012
+1515,"Cary","Williams","Cornerback","Baltimore Ravens","Face Mask",0,10000.0,"Week 2","2012-09-21",2012
+1516,"Bernard","Pollard","Safety","Baltimore Ravens","Face Mask",0,7875.0,"Week 7","2012-10-26",2012
+1517,"Cortland","Finnegan","Cornerback","St. Louis Rams","Face Mask",0,7875.0,"Week 7","2012-10-26",2012
+1518,"Tesla","Draughn","Running Backs","Kansas City Chiefs","Face Mask",0,7875.0,"Week 1","2012-09-14",2012
+1519,"Mike","Pouncey","Center","Miami Dolphins","Face Mask",0,7875.0,"Week 1","2012-09-14",2012
+1520,"DeMarco","Murray","Running Backs","Dallas Cowboys","Face Mask",0,7875.0,"Week 15","2012-12-20",2012
+1521,"Charles","Johnson","Defense","Carolina Panthers","Face Mask",0,7875.0,"Week 4","2012-10-05",2012
+1522,"Malcolm","Jenkins","Safety","New Orleans Saints","Face Mask",0,7875.0,"Week 4","2012-10-05",2012
+1523,"Larry","Fitzgerald","Wide Receiver","Arizona Cardinals","Face Mask",0,7875.0,"Week 5","2012-10-12",2012
+1524,"Emmanuel","Sanders","Wide Receiver","Pittsburgh Steelers","Faking Injury",0,15000.0,"Week 9","2012-11-09",2012
+1525,"Desmond","Bryant","Defense","Oakland Raiders","Fighting",0,26250.0,"Week 12","2012-11-30",2012
+1526,"Lamarr","Houston","Defense","Oakland Raiders","Fighting",0,26250.0,"Week 12","2012-11-30",2012
+1527,"Matt","Shaughnessy","Outside Linebacker","Oakland Raiders","Fighting",0,26250.0,"Week 12","2012-11-30",2012
+1528,"Tommy","Kelly","Defensive Tackle","Oakland Raiders","Fighting",0,26250.0,"Week 12","2012-11-30",2012
+1529,"Andrew","Whitworth","Left Tackle","Cincinnati Bengals","Fighting",0,26250.0,"Week 12","2012-11-30",2012
+1530,"Danieal","Manning","Safety","Houston Texans","Face Mask",0,10000.0,"Week 16","2012-12-28",2012
+1531,"Stefan","Logan","Wide Receiver","Detroit Lions","Face Mask",0,7875.0,"Week 12","2012-11-30",2012
+1532,"Henry","Melton","Defensive Tackle","Chicago Bears","Face Mask",0,7875.0,"Week 12","2012-11-30",2012
+1533,"Everson","Griffen","Defense","Minnesota Vikings","Helmet-to-Helmet Hit",0,15750.0,"Week 1","2012-09-14",2012
+1534,"Taylor","Mays","Safety","Cincinnati Bengals","Helmet-to-Helmet Hit",0,21000.0,"Week 1","2012-09-14",2012
+1535,"Madieu","Williams","Safety","Washington Redskins","Helmet-to-Helmet Hit",0,21000.0,"Week 1","2012-09-14",2012
+1536,"Kyle","Arrington","Cornerback","New England Patriots","Helmet-to-Helmet Hit",0,21000.0,"Week 11","2012-11-23",2012
+1537,"T.J.","Ward","Safety","Cleveland Browns","Helmet-to-Helmet Hit",0,25000.0,"Week 11","2012-11-23",2012
+1538,"Chad","Greenway","Outside Linebacker","Minnesota Vikings","Helmet-to-Helmet Hit",0,21000.0,"Week 4","2012-10-05",2012
+1539,"Stephen","Tulloch","Outside Linebacker","Detroit Lions","Helmet-to-Helmet Hit",0,21000.0,"Week 3","2012-09-28",2012
+1540,"Michael","Griffin","Safety","Tennessee Titans","Helmet-to-Helmet Hit",0,21000.0,"Week 5","2012-10-10",2012
+1541,"Jonathan","Martin","Right Tackle","Miami Dolphins","Unsportsmanlike Conduct",0,10000.0,"Week 8","2012-11-02",2012
+1542,"Donald","Penn","Left Tackle","Tampa Bay Buccaneers","Fighting",0,7875.0,"Week 9","2012-11-02",2012
+1543,"Chris","Hope","Safety","Atlanta Falcons","Helmet-to-Helmet Hit",0,30000.0,"Week 15","2012-12-21",2012
+1544,"Brandon","Spikes","Outside Linebacker","New England Patriots","Roughing the Passer",0,25000.0,"Week 10","2012-11-16",2012
+1545,"Nick","Perry","Outside Linebacker","Green Bay Packers","Roughing the Passer",0,15000.0,"Week 5","2012-10-10",2012
+1546,"Janoris","Jenkins","Cornerback","St. Louis Rams","Hit on Defenseless Player",0,15750.0,"Week 2","2012-09-21",2012
+1547,"Ryan","Mundy","Safety","Pittsburgh Steelers","Hit on Defenseless Player",0,21000.0,"Week 3","2012-09-28",2012
+1548,"Brandon","Browner","Cornerback","Seattle Seahawks","Hit on Defenseless Player",0,7875.0,"Week 3","2012-09-28",2012
+1549,"Kamerion","Wimbley","Outside Linebacker","Tennessee Titans","Hit on Defenseless Player",0,15000.0,"Week 2","2012-09-21",2012
+1550,"DaNorris","Searcy","Safety","Buffalo Bills","Hit on Defenseless Player",0,21000.0,"Week 2","2012-09-21",2012
+1551,"Von","Miller","Outside Linebacker","Denver Broncos","Roughing the Passer",0,25000.0,"Week 13","2012-12-07",2012
+1552,"Kenny","Phillips","Safety","New York Giants","Hit on Defenseless Player",0,30000.0,"Week 2","2012-09-21",2012
+1553,"Jerod","Mayo","Outside Linebacker","New England Patriots","Hit on Defenseless Player",0,21000.0,"Week 2","2012-09-21",2012
+1554,"J.J.","Watt","Defense","Houston Texans","Hit on Defenseless Player",0,15750.0,"Week 12","2012-11-30",2012
+1555,"Matt","Hasselbeck","Quarterback","Tennessee Titans","Horse Collar Tackle",0,15750.0,"Week 9","2012-11-09",2012
+1556,"Lorenzo","Alexander","Outside Linebacker","Washington Redskins","Horse Collar Tackle",0,15750.0,"Week 2","2012-09-21",2012
+1557,"Rashad","Johnson","Safety","Arizona Cardinals","Blindside Block",0,21000.0,"Week 7","2012-10-26",2012
+1558,"Brandon","Spikes","Outside Linebacker","New England Patriots","Blindside Block",0,21000.0,"Week 4","2012-10-05",2012
+1559,"Matt","Slauson","Guard","New York Jets","Low Block",0,10000.0,"Week 5","2012-10-11",2012
+1560,"Brodrick","Bunkley","Defensive Tackle","New Orleans Saints","Striking/Kicking/Kneeing",0,20000.0,"Week 12","2012-11-30",2012
+1561,"Will","Montgomery","Center","Washington Redskins","Striking/Kicking/Kneeing",0,10000.0,"Week 12","2012-12-07",2012
+1562,"Antonio","Smith","Defense","Houston Texans","Striking/Kicking/Kneeing",0,21000.0,"Week 1","2012-09-14",2012
+1563,"Cam","Newton","Quarterback","Carolina Panthers","Striking/Kicking/Kneeing",0,10000.0,"Week 16","2012-12-27",2012
+1564,"Ndamukong","Suh","Defensive Tackle","Detroit Lions","Striking/Kicking/Kneeing",0,30000.0,"Week 12","2012-11-28",2012
+1565,"Letroy","Guion","Defensive Tackle","Minnesota Vikings","Roughing the Passer",0,7875.0,"Week 1","2012-09-14",2012
+1566,"Ray","Edwards","Defense","Atlanta Falcons","Late Hit",0,8000.0,"Week 2","2012-09-21",2012
+1567,"Leroy","Harris","Center","Tennessee Titans","Late Hit",0,10000.0,"Week 3","2012-09-28",2012
+1568,"Jay","Feely","Kicker","Arizona Cardinals","Late Hit",0,7875.0,"Week 4","2012-10-05",2012
+1569,"SenDerrick","Marks","Defensive Tackle","Tennessee Titans","Late Hit",0,7875.0,"Week 5","2012-10-12",2012
+1570,"Ray","Rice","Running Backs","Baltimore Ravens","Late Hit",0,7875.0,"Week 2","2012-09-21",2012
+1571,"Cary","Williams","Cornerback","Baltimore Ravens","Late Hit",0,15750.0,"Week 15","2012-12-21",2012
+1572,"Aaron","Curry","Outside Linebacker","Oakland Raiders","Late Hit",0,15750.0,"Week 10","2012-11-16",2012
+1573,"DQwell","Jackson","Outside Linebacker","Cleveland Browns","Late Hit",0,7875.0,"Week 7","2012-10-26",2012
+1574,"Tyler","Polumbus","Right Tackle","Washington Redskins","Leg Whip",0,7875.0,"Week 7","2012-10-26",2012
+1575,"Michael","Vick","Quarterback","Philadelphia Eagles","Low Block",0,7875.0,"Week 9","2012-11-09",2012
+1576,"Kyle","Williams","Defensive Tackle","Buffalo Bills","Hit on Defenseless Player",0,15000.0,"Week 4","2012-10-03",2012
+1577,"Cam","Newton","Quarterback","Carolina Panthers","Physical Contact with Official",0,21000.0,"Week 16","2012-12-27",2012
+1578,"David","Baas","Center","New York Giants","Unsportsmanlike Conduct",0,7875.0,"Week 2","2012-09-21",2012
+1579,"Kevin","Boothe","Guard","New York Giants","Unsportsmanlike Conduct",0,7875.0,"Week 2","2012-09-21",2012
+1580,"Charles","Godfrey","Safety","Carolina Panthers","Unsportsmanlike Conduct",0,7875.0,"Week 3","2012-09-28",2012
+1581,"Tim","Dobbins","Outside Linebacker","Houston Texans","Roughing the Passer",0,30000.0,"Week 10","2012-11-14",2012
+1582,"Jason","Babin","Defense","Philadelphia Eagles","Roughing the Passer",0,15750.0,"Week 1","2012-09-14",2012
+1583,"Jermelle","Cudjo","Defensive Tackle","St. Louis Rams","Roughing the Passer",0,7875.0,"Week 5","2012-10-12",2012
+1584,"Mike","Martin","Defense","Tennessee Titans","Roughing the Passer",0,15750.0,"Week 8","2012-11-02",2012
+1585,"Chris","Canty","Defense","New York Giants","Roughing the Passer",0,15750.0,"Week 8","2012-11-02",2012
+1586,"Lawrence","Jackson","Defense","Detroit Lions","Roughing the Passer",0,15750.0,"Week 6","2012-10-19",2012
+1587,"Brad","Jones","Outside Linebacker","Green Bay Packers","Roughing the Passer",0,15750.0,"Week 11","2012-11-23",2012
+1588,"Nigel","Carr","Outside Linebacker","Baltimore Ravens","Roughing the Passer",0,15000.0,"Preseason","2012-08-25",2012
+1589,"Everson","Griffen","Defense","Minnesota Vikings","Roughing the Passer",0,15750.0,"Week 13","2012-12-07",2012
+1590,"Chris","Clemons","Defense","Seattle Seahawks","Roughing the Passer",0,15750.0,"Week 5","2012-10-12",2012
+1591,"Jimmy","Wilson","Safety","Miami Dolphins","Roughing the Passer",0,15750.0,"Week 2","2012-09-21",2012
+1592,"Dashon","Goldson","Safety","Spencer Nealy","Roughing the Passer",0,7875.0,"Week 13","2012-12-07",2012
+1593,"Melvin","Ingram","Outside Linebacker","San Diego Chargers","Roughing the Passer",0,15750.0,"Week 6","2012-10-12",2012
+1594,"DeMarcus","Ware","Defense","Dallas Cowboys","Roughing the Passer",0,15750.0,"Week 12","2012-12-20",2012
+1595,"Greg","Hardy","Defense","Carolina Panthers","Roughing the Passer",0,15750.0,"Week 9","2012-11-09",2012
+1596,"Von","Miller","Outside Linebacker","Denver Broncos","Roughing the Passer",0,15750.0,"Week 3","2012-09-28",2012
+1597,"Dannell","Ellerbe","Outside Linebacker","Baltimore Ravens","Hit on Defenseless Player",0,10000.0,"Week 9","2012-11-09",2012
+1598,"Thomas","Davis","Outside Linebacker","Carolina Panthers","Hit on Defenseless Player",0,21000.0,"Week 11","2012-11-23",2012
+1599,"Marshal","Yanda","Guard","Baltimore Ravens","Late Hit",0,7875.0,"Week 2","2012-09-21",2012
+1600,"David","Stewart","Right Tackle","Tennessee Titans","Striking/Kicking/Kneeing",0,7875.0,"Week 4","2012-10-05",2012
+1601,"Cullen","Jenkins","Defensive Tackle","Philadelphia Eagles","Late Hit",0,7875.0,"Week 2","2012-09-21",2012
+1602,"Ernie","Sims","Outside Linebacker","Dallas Cowboys","Hit on Defenseless Player",0,15750.0,"Week 14","2012-12-14",2012
+1603,"Jason","Babin","Defense","Jacksonville Jaguars","Hit on Defenseless Player",0,21000.0,"Week 13","2012-12-07",2012
+1604,"Rey","Maualuga","Outside Linebacker","Cincinnati Bengals","Hit on Defenseless Player",0,15750.0,"Week 10","2012-11-16",2012
+1605,"Vince","Wilfork","Defensive Tackle","New England Patriots","Hit on Defenseless Player",0,30000.0,"Week 16","2012-12-28",2012
+1606,"Haruki","Nakamura","Safety","Carolina Panthers","Hit on Defenseless Player",0,21000.0,"Week 9","2012-11-09",2012
+1607,"Dawan","Landry","Safety","Jacksonville Jaguars","Hit on Defenseless Player",0,21000.0,"Week 11","2012-11-23",2012
+1608,"Tramon","Williams","Cornerback","Green Bay Packers","Hit on Defenseless Player",0,21000.0,"Week 13","2012-12-07",2012
+1609,"Antonio","Brown","Wide Receiver","Pittsburgh Steelers","Taunting",0,10000.0,"Week 8","2012-11-02",2012
+1610,"Dashon","Goldson","Safety","San Francisco 49ers","Taunting",0,7875.0,"Week 7","2012-10-26",2012
+1611,"Andre","Brown","Running Backs","New York Giants","Horse Collar Tackle",0,15750.0,"Week 2","2012-09-21",2012
+1612,"Danieal","Manning","Safety","Houston Texans","Striking/Kicking/Kneeing",0,15000.0,"Week 6","2012-10-19",2012
+1613,"B.J.","Raji","Defense","Green Bay Packers","Striking/Kicking/Kneeing",0,7875.0,"Week 4","2012-10-05",2012
+1614,"DeSean","Jackson","Wide Receiver","Philadelphia Eagles","Striking/Kicking/Kneeing",0,10000.0,"Week 2","2012-09-21",2012
+1615,"Brandon","Marshall","Wide Receiver","Chicago Bears","Football Into Stands",0,5250.0,"Week 15","2012-12-21",2012
+1616,"Josh","Morgan","Wide Receiver","Washington Redskins","Unsportsmanlike Conduct",0,7875.0,"Week 2","2012-09-21",2012
+1617,"Nate","Burleson","Wide Receiver","Detroit Lions","Celebration",0,10000.0,"Week 6","2012-10-19",2012
+1618,"Dominique","Rodgers-Cromartie","Cornerback","Philadelphia Eagles","Striking/Kicking/Kneeing",0,7875.0,"Week 3","2012-09-28",2012
+1619,"Anthony","Castonzo","Left Tackle","Indianapolis Colts","Striking/Kicking/Kneeing",0,7875.0,"Week 2","2012-09-21",2012
+1620,"Rahim","Moore","Safety","Denver Broncos","Hit on Defenseless Player",0,21000.0,"Week 1","2012-09-14",2012
+1621,"Aaron","Curry","Outside Linebacker","Oakland Raiders","Hit on Defenseless Player",0,7875.0,"Week 10","2012-11-16",2012
+1622,"Quinton","Coples","Outside Linebacker","New York Jets","Roughing the Passer",0,10000.0,"Week 6","2012-10-19",2012
+1623,"Aaron","Maybin","Outside Linebacker","New York Jets","Roughing the Passer",0,7875.0,"Week 6","2012-10-19",2012
+1624,"Cory","Redding","Defense","Indianapolis Colts","Striking/Kicking/Kneeing",0,7875.0,"Week 6","2012-10-12",2012
+1625,"Tarell","Brown","Cornerback","San Francisco 49ers","Other Uniform/Equipment Violation",0,5250.0,"Week 2","2012-09-21",2012
+1626,"Kareem","Jackson","Cornerback","Houston Texans","Other Uniform/Equipment Violation",0,5250.0,"Week 17","2012-12-28",2012
+1627,"Brandon","Marshall","Wide Receiver","Chicago Bears","Other Uniform/Equipment Violation",0,10500.0,"Week 7","2012-10-26",2012
+1628,"Earl","Bennett","Wide Receiver","Chicago Bears","Other Uniform/Equipment Violation",0,10500.0,"Week 7","2012-10-26",2012
+1629,"Linval","Joseph","Defensive Tackle","New York Giants","Striking/Kicking/Kneeing",0,7875.0,"Week 12","2012-12-07",2012
+1630,"Brett","Hartmann","Punter","Houston Texans","Neal",4,109411.0,"N/A","2012-03-09",2012
+1631,"Alameda","Taamu","Defensive Tackle","Pittsburgh Steelers","""Off-court/Off-field Violation, Arrest""",2,45882.0,"N/A","2012-10-16",2012
+1632,"Andre","Neblett","Defensive Tackle","Carolina Panthers","""Substance Abuse, Performance Enhancing Drugs""",4,115294.0,"N/A","2012-07-18",2012
+1633,"Asa","Jackson","Cornerback","Baltimore Ravens","""Substance Abuse, Performance Enhancing Drugs""",4,91764.0,"N/A","2012-12-11",2012
+1634,"Brandon","Bolden","Running Backs","New England Patriots","""Substance Abuse, Performance Enhancing Drugs""",4,91764.0,"N/A","2012-11-09",2012
+1635,"Brody","Eldridge","Tight End","St. Louis Rams","""Substance Abuse, Performance Enhancing Drugs""",4,127058.0,"N/A","2012-07-03",2012
+1636,"Cedric","Griffin","Cornerback","Washington Redskins","""Substance Abuse, Performance Enhancing Drugs""",4,294117.0,"N/A","2012-12-04",2012
+1637,"Dontay","Moch","Defense","Cincinnati Bengals","""Substance Abuse, Performance Enhancing Drugs""",4,120552.0,"N/A","2012-06-13",2012
+1638,"Eric","Wright","Cornerback","Tampa Bay Buccaneers","""Substance Abuse, Performance Enhancing Drugs""",4,1705880.0,"N/A","2012-10-29",2012
+1639,"Garrett","Brown","Defensive Tackle","San Diego Chargers","""Substance Abuse, Performance Enhancing Drugs""",4,91764.0,"N/A","2012-08-16",2012
+1640,"Gerell","Robinson","Wide Receiver","Arizona Cardinals","""Substance Abuse, Performance Enhancing Drugs""",4,91764.0,"N/A","2012-09-21",2012
+1641,"Jermaine","Cunningham","Defense","New England Patriots","""Substance Abuse, Performance Enhancing Drugs""",4,127058.0,"N/A","2012-11-26",2012
+1642,"Joe","Haden","Cornerback","Cleveland Browns","""Substance Abuse, Performance Enhancing Drugs""",4,1356590.0,"N/A","2012-09-10",2012
+1643,"Jordan","Black","Tackle","Washington Redskins","""Substance Abuse, Performance Enhancing Drugs""",4,194117.0,"N/A","2012-12-17",2012
+1644,"Michael","Neal","Defense","Green Bay Packers","""Substance Abuse, Performance Enhancing Drugs""",4,127058.0,"N/A","2012-03-13",2012
+1645,"Quentin","Saulsberry","Guard","Denver Broncos","""Substance Abuse, Performance Enhancing Drugs""",4,91764.0,"N/A","2012-12-08",2012
+1646,"Ryan","McBean","Defense","Baltimore Ravens","""Substance Abuse, Performance Enhancing Drugs""",3,214285.0,"N/A","2012-05-08",2012
+1647,"Tyler","Sash","Safety","New York Giants","""Substance Abuse, Performance Enhancing Drugs""",4,109411.0,"N/A","2012-08-02",2012
+1648,"Virgil","Green","Tight End","Denver Broncos","""Substance Abuse, Performance Enhancing Drugs""",4,109411.0,"N/A","2012-03-10",2012
+1649,"Will","Hill","Safety","New York Giants","""Substance Abuse, Performance Enhancing Drugs""",4,91764.0,"N/A","2012-10-08",2012
+1650,"Allen","Barbre","Right Tackle","Seattle Seahawks","""Substance Abuse, Performance Enhancing Drugs""",4,164705.0,"N/A","2012-05-23",2012
+1651,"Andre","Brown","Running Backs","New York Giants","""Substance Abuse, Performance Enhancing Drugs""",4,109411.0,"N/A","2012-03-30",2012
+1652,"D.J.","Williams","Outside Linebacker","Denver Broncos","""Substance Abuse, Performance Enhancing Drugs""",6,864705.0,"N/A","2012-03-09",2012
+1653,"D.J.","Williams","Outside Linebacker","Denver Broncos","""Substance Abuse, Performance Enhancing Drugs""",3,432352.0,"N/A","2012-10-05",2012
+1654,"Lee","Ziemba","Guard","Carolina Panthers","""Substance Abuse, Performance Enhancing Drugs""",4,172941.0,"N/A","2012-10-28",2012
+1655,"Nick","Miller","Wide Receiver","St. Louis Rams","""Substance Abuse, Performance Enhancing Drugs""",4,0.0,"N/A","2012-02-15",2012
+1656,"Aaron","Berry","Cornerback","New York Jets","Personal Conduct",3,82058.0,"N/A","2012-08-20",2012
+1657,"Dwayne","Jarrett","Wide Receiver","Carolina Panthers","Personal Conduct",3,0.0,"N/A","2012-03-09",2012
+1658,"Kenny","Britt","Wide Receiver","Tennessee Titans","Personal Conduct",1,41636.0,"N/A","2012-08-30",2012
+1659,"Aqib","Talib","Cornerback","New England Patriots","Substance Abuse",4,435882.0,"N/A","2012-10-13",2012
+1660,"Clark","Haggans","Linebacker","San Francisco 49ers","Substance Abuse",3,176470.0,"N/A","2012-09-18",2012
+1661,"Joe","Hawley","Center","Atlanta Falcons","Substance Abuse",4,127058.0,"N/A","2012-11-19",2012
+1662,"Lawrence","Wilson","Outside Linebacker","New Orleans Saints","Substance Abuse",1,45882.0,"N/A","2012-07-06",2012
+1663,"Mikel","Leshoure","Running Backs","Detroit Lions","Substance Abuse",2,54705.0,"N/A","2012-06-13",2012
+1664,"Nate","Collins","Defensive Tackle","Chicago Bears","Substance Abuse",1,31764.0,"N/A","2012-07-19",2012
+1665,"Tamba","Hali","Outside Linebacker","Kansas City Chiefs","Substance Abuse",1,661764.0,"N/A","2012-08-20",2012
+1666,"Tanard","Jackson","Safety","Washington Redskins","Substance Abuse",16,700000.0,"N/A","2012-08-31",2012
+1667,"Winston","Guy","Safety","Seattle Seahawks","Substance Abuse",4,91764.0,"N/A","2012-11-20",2012
+1668,"Lorenzo","Washington","Defensive Tackle","","Undisclosed",4,0.0,"N/A","2012-11-05",2012
+1669,"Ramon","Humber","Outside Linebacker","New Orleans Saints","Undisclosed",3,0.0,"N/A","2012-06-07",2012
+1670,"Trevis","Turner","Tackle","Pittsburgh Steelers","Undisclosed",4,91764.0,"N/A","2012-07-02",2012
+1671,"Weslye","Saunders","Wide Receiver","Pittsburgh Steelers","Undisclosed",4,109411.0,"N/A","2012-02-07",2012
+1672,"Joe","Mays","Outside Linebacker","Denver Broncos","Player Safety Policy",1,205882.0,"N/A","2012-09-25",2012
+1673,"Donald","Washington","Cornerback","Kansas City Chiefs","Personal Conduct",3,108529.0,"N/A","2012-10-20",2012
+1674,"Brandon","Browner","Cornerback","Seattle Seahawks","""Substance Abuse, Performance Enhancing Drugs""",4,109411.0,"N/A","2012-12-05",2012
+1675,"Jerome","Simpson","Wide Receiver","Minnesota Vikings","",3,141176.0,"N/A","2012-06-11",2012
+1676,"Robert","Griffin","Quarterback","Washington Redskins","Other Uniform/Equipment Violation",0,10000.0,"Preseason","2013-08-22",2013
+1677,"Barry","Church","Safety","Dallas Cowboys","Football Into Stands",0,5250.0,"Week 1","2013-09-13",2013
+1678,"Cameron","Lawrence","Outside Linebacker","Dallas Cowboys","Blindside Block",0,21000.0,"Week 6","2013-10-17",2013
+1679,"Brynden","Trawick","Safety","Baltimore Ravens","Blindside Block",0,21000.0,"Preseason","2013-08-31",2013
+1680,"Chris","Cook","Cornerback","Minnesota Vikings","Physical Contact with Official",0,26250.0,"Week 13","2013-12-06",2013
+1681,"Matt","Simms","Quarterback","New York Jets","Celebration",0,7875.0,"Preseason","2013-08-30",2013
+1682,"Joseph","Fauria","Tight End","Detroit Lions","Chop Block",0,7875.0,"Preseason","2013-08-30",2013
+1683,"Ramon","Harewood","Guard","Baltimore Ravens","Chop Block",0,7875.0,"Preseason","2013-08-30",2013
+1684,"Logan","Mankins","Guard","New England Patriots","Clipping",0,10000.0,"Week 9","2013-11-08",2013
+1685,"Richie","Incognito","Guard","Miami Dolphins","Detrimental Conduct",4,470588.0,"N/A","2013-11-03",2013
+1686,"Jonathan","Dwyer","Running Backs","Pittsburgh Steelers","Crown-of-Helmet Violation",0,21000.0,"Week 3","2013-09-27",2013
+1687,"Dashon","Goldson","Safety","Tampa Bay Buccaneers","Hit on Defenseless Player",0,30000.0,"Week 1","2013-09-13",2013
+1688,"Bernard","Pollard","Safety","Tennessee Titans","Hit on Defenseless Player",0,42000.0,"Week 2","2013-09-18",2013
+1689,"Golden","Tate","Wide Receiver","Seattle Seahawks","Hit on Defenseless Player",0,21000.0,"Week 3","2013-09-27",2013
+1690,"Kareem","Jackson","Cornerback","Houston Texans","Hit on Defenseless Player",0,42000.0,"Week 2","2013-09-18",2013
+1691,"DeMeco","Ryans","Outside Linebacker","Philadelphia Eagles","Hit on Defenseless Player",0,21000.0,"Week 2","2013-09-20",2013
+1692,"George","Iloka","Safety","Cincinnati Bengals","Hit on Defenseless Player",0,15000.0,"Week 3","2013-09-24",2013
+1693,"Jon","Bostic","Outside Linebacker","Chicago Bears","Hit on Defenseless Player",0,21000.0,"Preseason","2013-08-22",2013
+1694,"Brandon","Harris","Cornerback","Houston Texans","Hit on Defenseless Player",0,21000.0,"Preseason","2013-08-23",2013
+1695,"Logan","Ryan","Cornerback","New England Patriots","Celebration",0,10000.0,"Week 7","2013-10-23",2013
+1696,"Janoris","Jenkins","Cornerback","St. Louis Rams","Face Mask",0,7875.0,"Week 4","2013-10-04",2013
+1697,"Anthony","Castonzo","Left Tackle","Indianapolis Colts","Face Mask",0,7875.0,"Week 1","2013-09-13",2013
+1698,"Arthur","Moats","Outside Linebacker","Buffalo Bills","Face Mask",0,7875.0,"Week 1","2013-09-13",2013
+1699,"Daniel","Teo-Nesheim","Defense","Tampa Bay Buccaneers","Face Mask",0,7875.0,"Week 1","2013-09-13",2013
+1700,"Dion","Jordan","Defense","Miami Dolphins","Face Mask",0,7875.0,"Week 1","2013-09-13",2013
+1701,"Colin","Kaepernick","Quarterback","San Francisco 49ers","Face Mask",0,7875.0,"Week 10","2013-11-15",2013
+1702,"Vincent","Jackson","Wide Receiver","Tampa Bay Buccaneers","Face Mask",0,7875.0,"Week 7","2013-10-25",2013
+1703,"Chris","Crocker","Safety","Cincinnati Bengals","Face Mask",0,7875.0,"Week 10","2013-11-15",2013
+1704,"Charles","Tillman","Cornerback","Chicago Bears","Face Mask",0,7875.0,"Week 10","2013-11-15",2013
+1705,"Rhett","Ellison","Tight End","Minnesota Vikings","Face Mask",0,7875.0,"Week 13","2013-12-06",2013
+1706,"Mario","Williams","Defense","Buffalo Bills","Face Mask",0,7875.0,"Week 8","2013-11-01",2013
+1707,"Kris","Durham","Wide Receiver","Detroit Lions","Face Mask",0,7875.0,"Week 13","2013-12-06",2013
+1708,"D.J.","Swearinger","Safety","Houston Texans","Face Mask",0,7875.0,"Week 14","2013-12-14",2013
+1709,"Tony","Fiammetta","Fullback","Chicago Bears","Face Mask",0,7875.0,"Week 12","2013-11-29",2013
+1710,"Thomas","Morstead","Punter","New Orleans Saints","Face Mask",0,7875.0,"Week 14","2013-12-13",2013
+1711,"Andre","Caldwell","Wide Receiver","Denver Broncos","Face Mask",0,7875.0,"Preseason","2013-08-23",2013
+1712,"Aaron","Ross","Cornerback","New York Giants","Face Mask",0,7785.0,"Preseason","2013-08-23",2013
+1713,"Antonio","Brown","Wide Receiver","Pittsburgh Steelers","Face Mask",0,7875.0,"Week 3","2013-09-27",2013
+1714,"Bryant","McKinnie","Left Tackle","Baltimore Ravens","Face Mask",0,7875.0,"Week 3","2013-09-27",2013
+1715,"DeSean","Jackson","Wide Receiver","Philadelphia Eagles","Face Mask",0,7875.0,"Week 9","2013-11-08",2013
+1716,"Moise","Fokou","Outside Linebacker","Tennessee Titans","Face Mask",0,7875.0,"Week 3","2013-09-27",2013
+1717,"Antonio","Smith","Defense","Houston Texans","Fighting",1,352941.0,"N/A","2013-08-19",2013
+1718,"Fred","Jackson","Running Backs","Buffalo Bills","Celebration",0,7875.0,"Week 5","2013-10-11",2013
+1719,"Jermichael","Finley","Tight End","Green Bay Packers","Hit on Defenseless Player",0,15750.0,"Week 6","2013-10-18",2013
+1720,"Tramon","Williams","Cornerback","Green Bay Packers","Striking/Kicking/Kneeing",0,7875.0,"Week 17","2013-01-04",2013
+1721,"Anthony","Davis","Right Tackle","San Francisco 49ers","Clipping",0,15750.0,"Week 6","2013-10-18",2013
+1722,"Sav","Rocca","Punter","Washington Redskins","Face Mask",0,7875.0,"Week 17","2013-01-04",2013
+1723,"Elvis","Dumervil","Outside Linebacker","Baltimore Ravens","Face Mask",0,7875.0,"Week 7","2013-10-25",2013
+1724,"Antrel","Rolle","Safety","New York Giants","Fighting",0,7875.0,"Week 17","2013-01-04",2013
+1725,"King","Dunlap","Left Tackle","Philadelphia Eagles","Fighting",0,7875.0,"Week 17","2013-01-04",2013
+1726,"Malcolm","Jenkins","Safety","New Orleans Saints","Helmet-to-Helmet Hit",0,15750.0,"Week 6","2013-10-18",2013
+1727,"Bernard","Pollard","Safety","Baltimore Ravens","Hit on Defenseless Player",0,15250.0,"Postseason","2013-01-25",2013
+1728,"Brian","Quick","Wide Receiver","St. Louis Rams","Striking/Kicking/Kneeing",0,7875.0,"Week 7","2013-10-25",2013
+1729,"Steve","Smith","Wide Receiver","Carolina Panthers","Striking/Kicking/Kneeing",0,7875.0,"Week 7","2013-10-25",2013
+1730,"Phil","Taylor","Defense","Cleveland Browns","Hit on Defenseless Player",0,7875.0,"Week 17","2013-01-04",2013
+1731,"Alameda","Taamu","Defensive Tackle","Arizona Cardinals","Striking/Kicking/Kneeing",0,10000.0,"Week 6","2013-10-18",2013
+1732,"Tom","Brady","Quarterback","New England Patriots","Striking/Kicking/Kneeing",0,10000.0,"Postseason","2013-01-23",2013
+1733,"Harvey","Dahl","Guard","St. Louis Rams","Late Hit",0,7875.0,"Week 7","2013-10-25",2013
+1734,"Chris","Williams","Guard","St. Louis Rams","Late Hit",0,7875.0,"Week 17","2013-01-04",2013
+1735,"Darnell","Dockett","Defense","Arizona Cardinals","Late Hit",0,7875.0,"Week 6","2013-10-18",2013
+1736,"Willie","Colon","Guard","New York Jets","Physical Contact with Official",0,35000.0,"Week 2","2013-09-19",2013
+1737,"Perry","Riley","Outside Linebacker","Washington Redskins","Roughing the Passer",0,15750.0,"Week 6","2013-10-18",2013
+1738,"Brian","Orakpo","Outside Linebacker","Washington Redskins","Roughing the Passer",0,15750.0,"Week 7","2013-10-25",2013
+1739,"Jelani","Jenkins","Outside Linebacker","Miami Dolphins","Roughing the Passer",0,15750.0,"Week 7","2013-10-25",2013
+1740,"Jared","Crick","Defense","Houston Texans","Roughing the Passer",0,15750.0,"Week 7","2013-10-25",2013
+1741,"Mike","Goodson","Running Backs","Oakland Raiders","Fighting",0,7875.0,"Week 17","2013-01-04",2013
+1742,"Takeo","Spikes","Linebacker","San Diego Chargers","Fighting",0,7875.0,"Week 17","2013-01-04",2013
+1743,"Kevin","Vickerson","Defensive Tackle","Denver Broncos","Striking/Kicking/Kneeing",0,10000.0,"Week 7","2013-10-25",2013
+1744,"Alex","Boone","Guard","San Francisco 49ers","Striking/Kicking/Kneeing",0,7875.0,"Week 6","2013-10-18",2013
+1745,"Mike","Mitchell","Safety","Carolina Panthers","Taunting",0,7875.0,"Week 7","2013-10-25",2013
+1746,"Daryl","Washington","Outside Linebacker","Arizona Cardinals","Substance Abuse",4,564706.0,"N/A","2013-04-03",2013
+1747,"Tyrann","Mathieu","Safety","Arizona Cardinals","Fighting",0,10000.0,"Week 6","2013-10-18",2013
+1748,"Frank","Gore","Running Backs","San Francisco 49ers","Football Into Stands",0,10500.0,"Week 17","2013-01-04",2013
+1749,"Michael","Crabtree","Wide Receiver","San Francisco 49ers","Football Into Stands",0,10500.0,"Week 17","2013-01-04",2013
+1750,"Chris","Long","Defense","St. Louis Rams","Striking/Kicking/Kneeing",0,15750.0,"Week 7","2013-10-25",2013
+1751,"Frank","Gore","Running Backs","San Francisco 49ers","Other Uniform/Equipment Violation",0,10500.0,"Postseason","2013-01-23",2013
+1752,"Brandon","Spikes","Outside Linebacker","New England Patriots","Other Uniform/Equipment Violation",0,10500.0,"Week 6","2013-10-18",2013
+1753,"Erik","Walden","Outside Linebacker","Indianapolis Colts","Head-Butting",1,176470.0,"N/A","2013-11-18",2013
+1754,"Yeremiah","Bell","Safety","Arizona Cardinals","Helmet-to-Helmet Hit",0,15750.0,"Week 4","2013-10-04",2013
+1755,"E.J.","Biggers","Cornerback","Washington Redskins","Helmet-to-Helmet Hit",0,21000.0,"Week 11","2013-11-22",2013
+1756,"Aaron","Williams","Safety","Buffalo Bills","Helmet-to-Helmet Hit",0,21000.0,"Week 5","2013-10-11",2013
+1757,"Clay","Matthews","Outside Linebacker","Green Bay Packers","Helmet-to-Helmet Hit",0,15750.0,"Week 13","2013-12-06",2013
+1758,"Wesley","Woodyard","Outside Linebacker","Denver Broncos","Helmet-to-Helmet Hit",0,15750.0,"Week 8","2013-11-01",2013
+1759,"DeAndre","Levy","Outside Linebacker","Detroit Lions","Helmet-to-Helmet Hit",0,15750.0,"Week 13","2013-12-06",2013
+1760,"Dashon","Goldson","Safety","Tampa Bay Buccaneers","Helmet-to-Helmet Hit",0,60000.0,"Week 16","2013-12-27",2013
+1761,"Orlando","Scandrick","Cornerback","Dallas Cowboys","Hit on Defenseless Player",0,21000.0,"Week 14","2013-12-13",2013
+1762,"Vontaze","Burfict","Outside Linebacker","Cincinnati Bengals","Hit on Defenseless Player",0,21000.0,"Week 3","2013-09-27",2013
+1763,"Rocky","McIntosh","Outside Linebacker","Detroit Lions","Hit on Defenseless Player",0,15750.0,"Week 4","2013-10-04",2013
+1764,"Jim","Leonhard","Safety","Buffalo Bills","Hit on Defenseless Player",0,15750.0,"Week 4","2013-10-04",2013
+1765,"William","Moore","Safety","Atlanta Falcons","Hit on Defenseless Player",0,22050.0,"Week 10","2013-11-15",2013
+1766,"William","Moore","Safety","Atlanta Falcons","Hit on Defenseless Player",0,15750.0,"Week 4","2013-10-04",2013
+1767,"Terence","Garvin","Outside Linebacker","Pittsburgh Steelers","Hit on Defenseless Player",0,25000.0,"Week 15","2013-12-18",2013
+1768,"Richard","Sherman","Cornerback","Seattle Seahawks","Hit on Defenseless Player",0,7875.0,"Week 13","2013-12-06",2013
+1769,"Donte","Whitner","Safety","San Francisco 49ers","Helmet-to-Helmet Hit",0,21000.0,"Week 4","2013-10-04",2013
+1770,"Ahmad","Black","Safety","Tampa Bay Buccaneers","Hit on Defenseless Player",0,21000.0,"Week 2","2013-09-20",2013
+1771,"Jerron","McMillian","Safety","Green Bay Packers","Helmet-to-Helmet Hit",0,15750.0,"Week 5","2013-10-11",2013
+1772,"Dashon","Goldson","Safety","Tampa Bay Buccaneers","Helmet-to-Helmet Hit",0,100000.0,"Week 1","2013-09-13",2013
+1773,"Michael","Griffin","Safety","Tennessee Titans","Hit on Defenseless Player",0,21000.0,"Week 4","2013-10-04",2013
+1774,"London","Fletcher","Outside Linebacker","Washington Redskins","Horse Collar Tackle",0,15750.0,"Week 9","2013-11-08",2013
+1775,"Ben","Bass","Defensive Tackle","Dallas Cowboys","Horse Collar Tackle",0,15750.0,"Preseason","2013-08-30",2013
+1776,"Zackary","Bowman","Cornerback","Chicago Bears","Horse Collar Tackle",0,15750.0,"Week 11","2013-11-22",2013
+1777,"DeAngelo","Hall","Cornerback","Washington Redskins","Horse Collar Tackle",0,20000.0,"Week 1","2013-09-13",2013
+1778,"Carlos","Dunlap","Defense","Cincinnati Bengals","Horse Collar Tackle",0,15750.0,"Week 10","2013-11-15",2013
+1779,"Alex","Henery","Kicker","Philadelphia Eagles","Horse Collar Tackle",0,15750.0,"Week 3","2013-09-27",2013
+1780,"Darnell","Dockett","Defense","Arizona Cardinals","Horse Collar Tackle",0,15750.0,"Week 4","2013-10-03",2013
+1781,"Jurrell","Casey","Defense","Tennessee Titans","Horse Collar Tackle",0,15750.0,"Week 9","2013-11-07",2013
+1782,"Charles","Tillman","Cornerback","Chicago Bears","Horse Collar Tackle",0,15750.0,"Week 2","2013-09-20",2013
+1783,"Will","Hill","Safety","New York Giants","Hit on Defenseless Player",0,15750.0,"Week 5","2013-10-11",2013
+1784,"Colin","Jones","Safety","Carolina Panthers","Blindside Block",0,21000.0,"Preseason","2013-08-23",2013
+1785,"Brandon","Meriweather","Safety","Washington Redskins","Helmet-to-Helmet Hit",0,42000.0,"Week 2","2013-09-18",2013
+1786,"Nick","Foles","Quarterback","Philadelphia Eagles","Blindside Block",0,10000.0,"Week 15","2013-12-20",2013
+1787,"Will","Montgomery","Center","Washington Redskins","Peelback Block",0,10000.0,"Week 2","2013-09-20",2013
+1788,"Robert","Turner","Center","Tennessee Titans","Peelback Block",0,10000.0,"Week 2","2013-09-20",2013
+1789,"Armond","Smith","Running Backs","Carolina Panthers","Unsportsmanlike Conduct",0,15000.0,"Preseason","2013-08-29",2013
+1790,"C.J.","Mosley","Defensive Tackle","Detroit Lions","Late Hit",0,7875.0,"Preseason","2013-08-30",2013
+1791,"William","Hayes","Defense","St. Louis Rams","Late Hit",0,7875.0,"Week 1","2013-09-13",2013
+1792,"Damontre","Moore","Defense","New York Giants","Late Hit",0,7875.0,"Week 7","2013-10-25",2013
+1793,"Nick","Fairley","Defensive Tackle","Detroit Lions","Late Hit",0,7875.0,"Preseason","2013-08-30",2013
+1794,"Bernard","Pollard","Safety","Tennessee Titans","Late Hit",0,15750.0,"Week 10","2013-11-15",2013
+1795,"Antonio","Brown","Wide Receiver","Pittsburgh Steelers","Late Hit",0,7875.0,"Week 3","2013-09-27",2013
+1796,"Joseph","Fauria","Tight End","Detroit Lions","Late Hit",0,7875.0,"Week 8","2013-11-01",2013
+1797,"Ted","Larsen","Guard","Tampa Bay Buccaneers","Late Hit",0,7875.0,"Week 7","2013-10-25",2013
+1798,"Eric","Martin","Outside Linebacker","Cleveland Browns","Late Hit",0,7875.0,"Week 7","2013-10-25",2013
+1799,"Glover","Quin","Safety","Detroit Lions","Late Hit",0,7875.0,"Week 13","2013-12-06",2013
+1800,"Moise","Fokou","Outside Linebacker","Tennessee Titans","Late Hit",0,7875.0,"Week 13","2013-12-06",2013
+1801,"Anquan","Boldin","Wide Receiver","San Francisco 49ers","Late Hit",0,7875.0,"Week 1","2013-09-13",2013
+1802,"Joe","Haden","Cornerback","Cleveland Browns","Late Hit",0,7875.0,"Week 8","2013-11-01",2013
+1803,"Cortland","Finnegan","Cornerback","St. Louis Rams","Late Hit",0,7875.0,"Week 1","2013-09-13",2013
+1804,"Cody","Wallace","Guard","Pittsburgh Steelers","Late Hit",0,10000.0,"Week 14","2013-12-13",2013
+1805,"Malik","Jackson","Defense","Denver Broncos","Late Hit",0,7875.0,"Week 8","2013-11-01",2013
+1806,"Bernard","Pollard","Safety","Tennessee Titans","Late Hit",0,10000.0,"Week 9","2013-11-08",2013
+1807,"Adam","Snyder","Guard","San Francisco 49ers","Late Hit",0,7875.0,"Week 13","2013-12-06",2013
+1808,"Stansly","Maponga","Defense","Atlanta Falcons","Late Hit",0,7875.0,"Week 7","2013-10-25",2013
+1809,"Nick","Fairley","Defensive Tackle","Detroit Lions","Late Hit",0,10000.0,"Week 3","2013-09-27",2013
+1810,"Matt","Spaeth","Tight End","Pittsburgh Steelers","Late Hit",0,7875.0,"Week 16","2013-12-27",2013
+1811,"Clay","Matthews","Outside Linebacker","Green Bay Packers","Late Hit",0,15000.0,"Week 1","2013-09-13",2013
+1812,"Vladimir","Ducasse","Guard","New York Jets","Leg Whip",0,7875.0,"Preseason","2013-08-30",2013
+1813,"Marcus","Cannon","Guard","New England Patriots","Leg Whip",0,15750.0,"Week 11","2013-11-22",2013
+1814,"Israel","Idonije","Defense","Detroit Lions","Leg Whip",0,15750.0,"Week 5","2013-10-11",2013
+1815,"Jackie","Battle","Fullback","Tennessee Titans","Crown-of-Helmet Violation",0,21000.0,"Week 2","2013-09-20",2013
+1816,"Tramon","Williams","Cornerback","Green Bay Packers","Physical Contact with Official",0,26250.0,"Week 13","2013-12-05",2013
+1817,"Asa","Jackson","Cornerback","Baltimore Ravens","""Substance Abuse, Performance Enhancing Drugs""",8,225882.0,"N/A","2013-08-02",2013
+1818,"Bruce","Irvin","Outside Linebacker","Seattle Seahawks","""Substance Abuse, Performance Enhancing Drugs""",4,157786.0,"N/A","2013-05-17",2013
+1819,"DeMarcus","Love","Left Tackle","Minnesota Vikings","""Substance Abuse, Performance Enhancing Drugs""",4,130588.0,"N/A","2013-08-01",2013
+1820,"DeQuin","Evans","Defense","Cincinnati Bengals","""Substance Abuse, Performance Enhancing Drugs""",8,190588.0,"N/A","2013-08-30",2013
+1821,"Gabe","Miller","Tight End","Chicago Bears","""Substance Abuse, Performance Enhancing Drugs""",4,95294.0,"N/A","2013-06-04",2013
+1822,"JoLonn","Dunbar","Outside Linebacker","St. Louis Rams","""Substance Abuse, Performance Enhancing Drugs""",4,305882.0,"N/A","2013-08-14",2013
+1823,"R.J.","Mattes","Right Tackle","New England Patriots","""Substance Abuse, Performance Enhancing Drugs""",4,95294.0,"N/A","2013-09-03",2013
+1824,"Will","Hill","Safety","New York Giants","""Substance Abuse, Performance Enhancing Drugs""",4,112941.0,"N/A","2013-07-20",2013
+1825,"Kellen","Winslow","Tight End","New York Jets","""Substance Abuse, Performance Enhancing Drugs""",4,197647.0,"N/A","2013-10-11",2013
+1826,"Weslye","Saunders","Wide Receiver","Indianapolis Colts","""Substance Abuse, Performance Enhancing Drugs""",8,261176.0,"N/A","2013-07-18",2013
+1827,"LaRoy","Reynolds","Outside Linebacker","Jacksonville Jaguars","""Substance Abuse, Performance Enhancing Drugs""",4,95294.0,"N/A","2013-11-12",2013
+1828,"DBrickashaw","Ferguson","Left Tackle","New York Jets","Fighting",0,15750.0,"Week 2","2013-09-18",2013
+1829,"Gosder","Cherilus","Right Tackle","Indianapolis Colts","Fighting",0,7875.0,"Week 15","2013-12-20",2013
+1830,"Robert","Woods","Wide Receiver","Buffalo Bills","Striking/Kicking/Kneeing",0,15000.0,"Week 16","2013-12-26",2013
+1831,"LaRon","Landry","Safety","Indianapolis Colts","Unsportsmanlike Conduct",0,7875.0,"Week 14","2013-12-14",2013
+1832,"Brandon","Browner","Cornerback","Seattle Seahawks","""Substance Abuse, Marijuana""",16,95626.0,"N/A","2013-12-18",2013
+1833,"Michael","Griffin","Safety","Tennessee Titans","Hits to the Head",1,205882.0,"N/A","2013-11-25",2013
+1834,"Daryl","Washington","Outside Linebacker","Arizona Cardinals","Roughing the Passer",0,21000.0,"Week 5","2013-10-11",2013
+1835,"Israel","Idonije","Defense","Detroit Lions","Roughing the Passer",0,15750.0,"Week 2","2013-09-20",2013
+1836,"Chandler","Jones","Defense","New England Patriots","Roughing the Passer",0,17750.0,"Week 2","2013-09-20",2013
+1837,"Whitney","Mercilus","Outside Linebacker","Houston Texans","Roughing the Passer",0,15750.0,"Week 3","2013-09-27",2013
+1838,"Gerald","McCoy","Defensive Tackle","Tampa Bay Buccaneers","Roughing the Passer",0,15750.0,"Week 9","2013-11-08",2013
+1839,"Matt","Elam","Safety","Baltimore Ravens","Roughing the Passer",0,7875.0,"Week 15","2013-12-20",2013
+1841,"Jason","Babin","Defense","Jacksonville Jaguars","Roughing the Passer",0,15750.0,"Week 4","2013-10-04",2013
+1842,"Ndamukong","Suh","Defensive Tackle","Detroit Lions","Roughing the Passer",0,31500.0,"Week 6","2013-10-16",2013
+1843,"Cameron","Wake","Defense","Miami Dolphins","Roughing the Passer",0,15750.0,"Week 12","2013-11-29",2013
+1844,"LaRon","Landry","Safety","Indianapolis Colts","Roughing the Passer",0,15750.0,"Week 12","2013-11-29",2013
+1845,"Osi","Umenyiora","Outside Linebacker","Atlanta Falcons","Roughing the Passer",0,15750.0,"Week 8","2013-11-01",2013
+1846,"William","Moore","Safety","Atlanta Falcons","Roughing the Passer",0,15750.0,"Week 8","2013-11-01",2013
+1847,"Antonio","Smith","Defense","Houston Texans","Roughing the Passer",0,15750.0,"Week 12","2013-11-29",2013
+1848,"Ahmad","Brooks","Outside Linebacker","San Francisco 49ers","Roughing the Passer",0,15750.0,"Week 11","2013-11-20",2013
+1849,"Sean","Weatherspoon","Outside Linebacker","Atlanta Falcons","Roughing the Passer",0,15750.0,"Week 13","2013-12-06",2013
+1850,"Lamarr","Houston","Defense","Oakland Raiders","Roughing the Passer",0,7875.0,"Week 14","2013-12-13",2013
+1851,"Muhammad","Wilkerson","Defense","New York Jets","Roughing the Passer",0,15750.0,"Week 4","2013-10-04",2013
+1852,"Quinton","Coples","Outside Linebacker","New York Jets","Roughing the Passer",0,15750.0,"Week 4","2013-10-04",2013
+1853,"Sheldon","Richardson","Defense","New York Jets","Roughing the Passer",0,15750.0,"Week 16","2013-12-27",2013
+1854,"William","Gay","Cornerback","Pittsburgh Steelers","Roughing the Passer",0,15750.0,"Week 12","2013-11-29",2013
+1855,"Nick","Fairley","Defensive Tackle","Detroit Lions","Roughing the Passer",0,15750.0,"Week 10","2013-11-15",2013
+1856,"Willie","Young","Defense","Detroit Lions","Roughing the Passer",0,15750.0,"Week 10","2013-11-15",2013
+1857,"Courtney","Upshaw","Outside Linebacker","Baltimore Ravens","Roughing the Passer",0,15750.0,"Week 14","2013-12-13",2013
+1858,"Kenny","Vaccaro","Safety","New Orleans Saints","Roughing the Passer",0,7875.0,"Week 1","2013-09-13",2013
+1859,"Cameron","Jordan","Defense","New Orleans Saints","Roughing the Passer",0,10000.0,"Week 12","2013-11-29",2013
+1860,"Gerald","McCoy","Defensive Tackle","Tampa Bay Buccaneers","Roughing the Passer",0,15750.0,"Week 11","2013-11-22",2013
+1861,"Michael","Bennett","Defense","Seattle Seahawks","Roughing the Passer",0,15750.0,"Week 10","2013-11-15",2013
+1862,"Jairus","Byrd","Safety","Buffalo Bills","Roughing the Passer",0,15750.0,"Week 14","2013-12-13",2013
+1863,"Philip","Wheeler","Outside Linebacker","Miami Dolphins","Roughing the Passer",0,21000.0,"Week 10","2013-11-15",2013
+1864,"Clay","Matthews","Outside Linebacker","Green Bay Packers","Roughing the Passer",0,15750.0,"Week 10","2013-11-15",2013
+1865,"Kevin","Vickerson","Defensive Tackle","Denver Broncos","Roughing the Passer",0,7875.0,"Week 8","2013-11-01",2013
+1866,"Marcus","Benard","Outside Linebacker","Arizona Cardinals","Roughing the Passer",0,15750.0,"Week 15","2013-12-20",2013
+1867,"Sio","Moore","Outside Linebacker","Oakland Raiders","Roughing the Passer",0,15750.0,"Week 12","2013-11-29",2013
+1868,"Von","Miller","Outside Linebacker","Denver Broncos","Roughing the Passer",0,25000.0,"Week 14","2013-12-13",2013
+1869,"Najee","Goode","Outside Linebacker","Philadelphia Eagles","Roughing the Passer",0,10000.0,"Week 10","2013-11-15",2013
+1870,"Linval","Joseph","Defensive Tackle","New York Giants","Roughing the Passer",0,15750.0,"Week 1","2013-09-13",2013
+1871,"Kamerion","Wimbley","Outside Linebacker","Tennessee Titans","Roughing the Passer",0,10000.0,"Week 15","2013-12-20",2013
+1872,"George","Selvie","Defense","Dallas Cowboys","Roughing the Passer",0,15750.0,"Week 14","2013-12-13",2013
+1873,"Alex","Boone","Guard","San Francisco 49ers","Off-court/Off-field Violation",0,51000.0,"Preseason","2013-10-18",2013
+1874,"Vontaze","Burfict","Outside Linebacker","Cincinnati Bengals","Spearing",0,21000.0,"Week 8","2013-11-01",2013
+1875,"Vontaze","Burfict","Outside Linebacker","Cincinnati Bengals","Striking/Kicking/Kneeing",0,10000.0,"Week 3","2013-09-27",2013
+1876,"Andre","Holmes","Wide Receiver","Oakland Raiders","Substance Abuse",4,130588.0,"N/A","2013-07-27",2013
+1877,"Bert","Reed","Wide Receiver","Pittsburgh Steelers","Substance Abuse",4,0.0,"N/A","2013-07-17",2013
+1878,"Brandon","Collins","Wide Receiver","New York Giants","Substance Abuse",4,95294.0,"N/A","2013-06-25",2013
+1879,"Brandon","McDonald","Cornerback","Tampa Bay Buccaneers","Substance Abuse",2,0.0,"N/A","2013-09-13",2013
+1880,"Christian","Thompson","Safety","Baltimore Ravens","Substance Abuse",4,112941.0,"N/A","2013-04-01",2013
+1881,"Demarcus","Dobbs","Defense","San Francisco 49ers","Substance Abuse",1,32647.0,"N/A","2013-08-14",2013
+1882,"Isaiah","Pead","Running Backs","St. Louis Rams","Substance Abuse",1,33738.0,"N/A","2013-05-31",2013
+1883,"James","Sanders","Safety","Arizona Cardinals","Substance Abuse",4,0.0,"N/A","2013-04-19",2013
+1884,"Jarvis","Jenkins","Defense","Washington Redskins","Substance Abuse",4,167009.0,"N/A","2013-07-26",2013
+1885,"Javarris","James","Running Backs","Arizona Cardinals","Substance Abuse",4,0.0,"N/A","2013-02-13",2013
+1886,"Jerome","Felton","Fullback","Minnesota Vikings","Substance Abuse",3,150000.0,"N/A","2013-08-26",2013
+1887,"Justin","Blackmon","Wide Receiver","Jacksonville Jaguars","Substance Abuse",4,289754.0,"N/A","2013-04-20",2013
+1888,"Justin","Blackmon","Wide Receiver","Jacksonville Jaguars","Substance Abuse",8,651946.0,"N/A","2013-11-01",2013
+1889,"Larry","Grant","Linebacker","Cleveland Browns","Substance Abuse",4,0.0,"N/A","2013-04-19",2013
+1890,"LaVon","Brazill","Wide Receiver","Indianapolis Colts","Substance Abuse",4,112941.0,"N/A","2013-06-24",2013
+1891,"Mike","Goodson","Running Backs","New York Jets","Substance Abuse",4,250253.0,"N/A","2013-08-27",2013
+1892,"Rob","Jackson","Outside Linebacker","Washington Redskins","Substance Abuse",4,168235.0,"N/A","2013-03-20",2013
+1893,"Taitusi","Lutui","Guard","Tennessee Titans","Substance Abuse",4,0.0,"N/A","2013-03-13",2013
+1894,"Tom","Zbikowski","Safety","Chicago Bears","Substance Abuse",2,0.0,"N/A","2013-09-13",2013
+1895,"Von","Miller","Outside Linebacker","Denver Broncos","Substance Abuse",6,806161.0,"N/A","2013-08-20",2013
+1896,"Walter","Thurmond","Cornerback","Seattle Seahawks","""Substance Abuse, Marijuana""",4,177852.0,"N/A","2013-11-24",2013
+1897,"Willie","Young","Defense","Detroit Lions","Taunting",0,7875.0,"Preseason","2013-08-30",2013
+1898,"Golden","Tate","Wide Receiver","Seattle Seahawks","Taunting",0,7875.0,"Week 8","2013-11-01",2013
+1899,"Trumaine","Johnson","Cornerback","St. Louis Rams","Unsportsmanlike Conduct",0,7875.0,"Week 10","2013-11-15",2013
+1900,"Ndamukong","Suh","Defensive Tackle","Detroit Lions","Taunting",0,7875.0,"Week 12","2013-11-29",2013
+1901,"Frank","Alexander","Defense","Carolina Panthers","Fighting",0,15750.0,"Week 1","2013-09-13",2013
+1902,"Marshawn","Lynch","Running Backs","Seattle Seahawks","Other Uniform/Equipment Violation",0,5250.0,"Week 4","2013-10-05",2013
+1903,"Brandon","Marshall","Wide Receiver","Chicago Bears","Other Uniform/Equipment Violation",0,10500.0,"Week 6","2013-10-16",2013
+1904,"Kyle","Long","Guard","Chicago Bears","Striking/Kicking/Kneeing",0,7875.0,"Week 12","2013-11-29",2013
+1905,"Gino","Gradkowski","Center","Baltimore Ravens","Hit on Defenseless Player",0,7875.0,"Week 1","2013-09-13",2013
+1906,"Jimmy","Smith","Cornerback","Baltimore Ravens","Hit on Defenseless Player",0,7875.0,"Week 1","2013-09-13",2013
+1907,"Jeromey","Clary","Guard","San Diego Chargers","Striking/Kicking/Kneeing",0,7875.0,"Week 3","2013-09-27",2013
+1908,"Darnell","Dockett","Defense","Arizona Cardinals","Striking/Kicking/Kneeing",0,7875.0,"Week 14","2013-12-13",2013
+1909,"Kelcie","McCray","Safety","Tampa Bay Buccaneers","Unsportsmanlike Conduct",0,7875.0,"Week 7","2013-10-25",2013
+1910,"Brandon","Meriweather","Safety","Washington Redskins","Unnecessary Roughness",1,70588.0,"N/A","2013-10-21",2013
+1911,"Lavonte","David","Outside Linebacker","Tampa Bay Buccaneers","Hit on Defenseless Player",0,7875.0,"Week 1","2013-09-13",2013
+1912,"Dawan","Landry","Safety","New York Jets","Hit on Defenseless Player",0,21000.0,"Week 1","2013-09-13",2013
+1913,"Ndamukong","Suh","Defensive Tackle","Detroit Lions","Low Block",0,100000.0,"Week 1","2013-09-10",2013
+1914,"Thomas","DeCoud","Safety","Atlanta Falcons","Roughing the Passer",0,15750.0,"Week 4","2013-10-04",2013
+1915,"Cody","Wallace","Guard","Pittsburgh Steelers","Striking/Kicking/Kneeing",0,7875.0,"Week 14","2013-12-13",2013
+1916,"Alfonzo","Dennard","Cornerback","New England Patriots","Fighting",0,7875.0,"Week 2","2013-09-20",2013
+1917,"Michael","Buchanan","Defense","New England Patriots","Fighting",0,7875.0,"Week 2","2013-09-20",2013
+1918,"Vince","Wilfork","Defensive Tackle","New England Patriots","Fighting",0,7875.0,"Week 2","2013-09-20",2013
+1919,"Jordan","Todman","Running Backs","Jacksonville Jaguars","Late Hit",0,7875.0,"Week 4","2013-10-04",2013
+1920,"David","Nelson","Wide Receiver","New York Jets","Unsportsmanlike Conduct",0,7875.0,"Week 8","2013-11-01",2013
+1921,"SenDerrick","Marks","Defensive Tackle","Jacksonville Jaguars","Unsportsmanlike Conduct",0,7875.0,"Week 7","2013-10-25",2013
+1922,"Mike","Pouncey","Center","Miami Dolphins","Unsportsmanlike Conduct",0,7875.0,"Week 10","2013-11-15",2013
+1923,"Dashon","Goldson","Safety","Spencer Nealy","Player Safety Policy",1,264705.0,"N/A","2013-11-18",2013
+1924,"Travis","Lewis","Outside Linebacker","Detroit Lions","""Substance Abuse, Performance Enhancing Drugs""",4,112941.0,"N/A","2013-12-03",2013
+1925,"Brandon","Marshall","Wide Receiver","Chicago Bears","Other Uniform/Equipment Violation",0,15000.0,"Week 14","2013-12-13",2013
+1926,"Cam","Newton","Quarterback","Carolina Panthers","On Field Commercial Logo Violation",0,10000.0,"Week 3","2013-09-24",2013
+1927,"Josh","Gordon","Wide Receiver","Cleveland Browns","Substance Abuse",2,148894.0,"N/A","2013-06-07",2013
+1928,"Rokevious","Watkins","Guard","St. Louis Rams","Substance Abuse",1,23823.0,"N/A","2013-05-22",2013
+1929,"Dez","Bryant","Wide Receiver","Dallas Cowboys","Celebration",0,7875.0,"Week 3","2013-09-25",2013
+1930,"Terrance","Knighton","Defensive Tackle","Denver Broncos","Verbal or other Non-Physical Offense Against  Official",0,11025.0,"Week 6","2014-10-16",2014
+1931,"Louis","Murphy","Wide Receiver","Tampa Bay Buccaneers","Verbal or other Non-Physical Offense Against  Official",0,11025.0,"Week 5","2014-10-10",2014
+1932,"Vontaze","Burfict","Outside Linebacker","Cincinnati Bengals","Unsportsmanlike Conduct",0,25000.0,"Week 6","2014-10-15",2014
+1933,"Jonathan","Newsome","Outside Linebacker","Indianapolis Colts","Blindside Block",0,22050.0,"Week 2","2014-09-17",2014
+1934,"Lance","Kendricks","Tight End","St. Louis Rams","Blindside Block",0,22050.0,"Week 10","2014-11-14",2014
+1935,"Garrett","Reynolds","Right Tackle","Detroit Lions","Blindside Block",0,22050.0,"Week 8","2014-10-31",2014
+1936,"Antone","Exum","Cornerback","Minnesota Vikings","Blindside Block",0,22050.0,"Week 5","2014-10-10",2014
+1937,"Darrel","Young","Fullback","Washington Redskins","Blindside Block",0,22050.0,"Week 9","2014-11-07",2014
+1938,"Darian","Stewart","Safety","Baltimore Ravens","Blindside Block",0,22050.0,"Week 10","2014-11-14",2014
+1939,"Dan","Connolly","Guard","New England Patriots","Chop Block",0,8268.0,"Week 5","2014-10-10",2014
+1940,"Julius","Thomas","Tight End","Denver Broncos","Chop Block",0,8268.0,"Week 5","2014-10-08",2014
+1941,"C.J.","Mosley","Defensive Tackle","Detroit Lions","Detrimental Conduct",1,91176.0,"Week 7","2014-10-25",2014
+1942,"Ray","Rice","Running Backs","Baltimore Ravens","Domestic Violence",2,529411.0,"N/A","2014-07-24",2014
+1943,"Ray","Rice","Running Backs","Baltimore Ravens","Off-court/Off-field Violation",0,58823.0,"Preseason","2014-07-24",2014
+1944,"DeMarco","Murray","Running Backs","Dallas Cowboys","Crown-of-Helmet Violation",0,21000.0,"Week 17","2014-01-03",2014
+1945,"Kenny","Stills","Wide Receiver","New Orleans Saints","Celebration",0,7875.0,"Week 17","2014-01-03",2014
+1946,"Lance","Moore","Wide Receiver","New Orleans Saints","Celebration",0,7875.0,"Week 17","2014-01-03",2014
+1947,"Austin","Seferian-Jenkins","Tight End","Tampa Bay Buccaneers","Celebration",0,11025.0,"Week 10","2014-11-14",2014
+1948,"Jimmy","Smith","Cornerback","Baltimore Ravens","Face Mask",0,8268.0,"Week 7","2014-10-24",2014
+1949,"Tharold","Simon","Cornerback","Seattle Seahawks","Face Mask",0,8268.0,"Week 7","2014-10-24",2014
+1950,"Chris","Baker","Defensive Tackle","Washington Redskins","Face Mask",0,10000.0,"Week 6","2014-10-17",2014
+1951,"Jarvis","Landry","Wide Receiver","Miami Dolphins","Face Mask",0,8268.0,"Week 6","2014-10-17",2014
+1952,"Drew","Butler","Punter","Arizona Cardinals","Face Mask",0,8268.0,"Week 13","2014-12-05",2014
+1953,"Sheldon","Richardson","Defense","New York Jets","Face Mask",0,8268.0,"Week 2","2014-09-19",2014
+1954,"Chris","Baker","Defensive Tackle","Washington Redskins","Face Mask",0,8268.0,"Week 3","2014-09-26",2014
+1955,"Willie","Young","Defense","Chicago Bears","Face Mask",0,8268.0,"Week 13","2014-12-05",2014
+1956,"Jordan","Poyer","Cornerback","Cleveland Browns","Face Mask",0,7875.0,"Week 17","2014-01-03",2014
+1957,"Jarvis","Jenkins","Defense","Washington Redskins","Face Mask",0,8268.0,"Week 5","2014-10-10",2014
+1958,"Pierre","Garcon","Wide Receiver","Washington Redskins","Face Mask",0,8268.0,"Week 5","2014-10-10",2014
+1959,"James","Ihedigbo","Safety","Detroit Lions","Face Mask",0,10000.0,"Week 10","2014-11-14",2014
+1960,"Josh","Norman","Cornerback","Carolina Panthers","Fighting",0,8268.0,"Week 11","2014-11-21",2014
+1961,"Andrew","Quarless","Tight End","Green Bay Packers","Fighting",0,8268.0,"Week 2","2014-09-19",2014
+1962,"David","Amerson","Cornerback","Washington Redskins","Striking/Kicking/Kneeing",0,8268.0,"Week 4","2014-10-03",2014
+1963,"Adam","Hayward","Outside Linebacker","Washington Redskins","Striking/Kicking/Kneeing",0,8268.0,"Week 4","2014-10-03",2014
+1964,"King","Dunlap","Left Tackle","San Diego Chargers","Fighting",0,8268.0,"Week 4","2014-10-03",2014
+1965,"Andre","Branch","Defense","Jacksonville Jaguars","Fighting",0,8268.0,"Week 4","2014-10-03",2014
+1966,"Marshawn","Lynch","Running Backs","Seattle Seahawks","Not Speaking to Media",0,100000.0,"Week 11","2014-11-19",2014
+1967,"Jerry","Hughes","Defense","Buffalo Bills","Verbal or other Non-Physical Offense Against  Official",0,22050.0,"Week 11","2014-11-22",2014
+1968,"Rafael","Bush","Safety","New Orleans Saints","Hit on Defenseless Player",0,21000.0,"Postseason","2014-01-18",2014
+1969,"Jimmy","Graham","Tight End","New Orleans Saints","Celebration",0,30000.0,"Preseason","2014-08-22",2014
+1970,"Ricardo","Lockette","Wide Receiver","Seattle Seahawks","Striking/Kicking/Kneeing",0,10000.0,"Week 11","2014-11-21",2014
+1971,"Harry","Douglas","Wide Receiver","Atlanta Falcons","Fighting",0,8268.0,"Week 11","2014-11-21",2014
+1972,"Devin","Hester","Wide Receiver","Atlanta Falcons","Fighting",0,8268.0,"Week 11","2014-11-21",2014
+1973,"Roddy","White","Wide Receiver","Atlanta Falcons","Fighting",0,8268.0,"Week 11","2014-11-21",2014
+1974,"Roman","Harper","Safety","Carolina Panthers","Fighting",0,8268.0,"Week 11","2014-11-21",2014
+1975,"Brandon","Spikes","Outside Linebacker","Buffalo Bills","Unsportsmanlike Conduct",0,8268.0,"Week 3","2014-09-26",2014
+1976,"Anquan","Boldin","Wide Receiver","San Francisco 49ers","Helmet-to-Helmet Hit",0,8268.0,"Week 3","2014-09-26",2014
+1977,"Thomas","Davis","Outside Linebacker","Carolina Panthers","Helmet-to-Helmet Hit",0,16537.0,"Week 9","2014-11-07",2014
+1978,"Ryan","Mundy","Safety","Chicago Bears","Helmet-to-Helmet Hit",0,22050.0,"Week 6","2014-10-15",2014
+1979,"Chase","Reynolds","Running Backs","St. Louis Rams","Helmet-to-Helmet Hit",0,7875.0,"Week 17","2014-01-03",2014
+1980,"Eugene","Sims","Defense","St. Louis Rams","Helmet-to-Helmet Hit",0,7875.0,"Week 17","2014-01-03",2014
+1981,"C.J.","Mosley","Defensive Tackle","Detroit Lions","Hit on Defenseless Player",0,22050.0,"Week 12","2014-11-28",2014
+1982,"James","Ihedigbo","Safety","Baltimore Ravens","Crown-of-Helmet Violation",0,15750.0,"Week 17","2014-01-03",2014
+1983,"A.J.","Hawk","Outside Linebacker","Green Bay Packers","Hit on Defenseless Player",0,15750.0,"Week 17","2014-01-03",2014
+1984,"Ahmad","Dixon","Safety","Dallas Cowboys","Hit on Defenseless Player",0,22050.0,"Preseason","2014-08-29",2014
+1985,"Trent","Cole","Outside Linebacker","Philadelphia Eagles","Roughing the Passer",0,22050.0,"Week 8","2014-10-31",2014
+1986,"Brandian","Ross","Safety","Oakland Raiders","Hit on Defenseless Player",0,22050.0,"Week 8","2014-10-31",2014
+1987,"Dre","Kirkpatrick","Cornerback","Cincinnati Bengals","Helmet-to-Helmet Hit",0,22050.0,"Preseason","2014-08-29",2014
+1988,"Christopher","Conte","Safety","Chicago Bears","Hit on Defenseless Player",0,22050.0,"Week 1","2014-09-12",2014
+1989,"Nigel","Bradham","Outside Linebacker","Buffalo Bills","Hit on Defenseless Player",0,16537.0,"Week 13","2014-12-05",2014
+1990,"Bashaud","Breeland","Cornerback","Washington Redskins","Horse Collar Tackle",0,16537.0,"Week 1","2014-09-12",2014
+1991,"William","Hayes","Defense","St. Louis Rams","Horse Collar Tackle",0,16537.0,"Week 6","2014-10-17",2014
+1992,"Lardarius","Webb","Cornerback","Baltimore Ravens","Horse Collar Tackle",0,16547.0,"Week 12","2014-11-28",2014
+1993,"DeSean","Jackson","Wide Receiver","Washington Redskins","Horse Collar Tackle",0,16537.0,"Week 6","2014-10-17",2014
+1994,"Marcus","Williams","Cornerback","New York Jets","Horse Collar Tackle",0,8268.0,"Week 9","2014-11-07",2014
+1995,"Jerraud","Powers","Cornerback","Arizona Cardinals","Horse Collar Tackle",0,16537.0,"Week 8","2014-10-31",2014
+1996,"Brandon","Meriweather","Safety","Washington Redskins","Illegal Hit",2,100588.0,"N/A","2014-08-25",2014
+1997,"Colin","Kaepernick","Quarterback","San Francisco 49ers","Cursing",0,5512.5,"Week 2","2014-09-18",2014
+1998,"Akeem","Ayers","Outside Linebacker","New England Patriots","Striking/Kicking/Kneeing",0,8250.0,"Week 8","2014-10-31",2014
+1999,"Haloti","Ngata","Defensive Tackle","Baltimore Ravens","Striking/Kicking/Kneeing",0,8268.0,"Preseason","2014-08-29",2014
+2000,"Chase","Coffman","Tight End","Tennessee Titans","Unsportsmanlike Conduct",0,30000.0,"Week 10","2014-11-14",2014
+2001,"Jamie","Collins","Outside Linebacker","New England Patriots","Late Hit",0,8268.0,"Week 5","2014-10-10",2014
+2002,"Jason","Babin","Defense","New York Jets","Late Hit",0,16537.0,"Week 10","2014-11-14",2014
+2003,"Eugene","Sims","Defense","St. Louis Rams","Late Hit",0,8268.0,"Week 9","2014-11-07",2014
+2004,"Brandon","Spikes","Outside Linebacker","Buffalo Bills","Late Hit",0,8268.0,"Week 1","2014-09-12",2014
+2005,"Michael","Oher","Right Tackle","Tennessee Titans","Late Hit",0,8268.0,"Week 3","2014-09-26",2014
+2006,"Andy","Levitre","Guard","Tennessee Titans","Late Hit",0,8268.0,"Week 5","2014-10-10",2014
+2007,"Derrick","Morgan","Outside Linebacker","Tennessee Titans","Late Hit",0,8268.0,"Week 5","2014-10-10",2014
+2008,"Jameel","McClain","Outside Linebacker","New York Giants","Late Hit",0,8268.0,"Week 2","2014-09-19",2014
+2009,"C.J.","Mosley","Outside Linebacker","Baltimore Ravens","Late Hit",0,8268.0,"Week 1","2014-09-12",2014
+2010,"Cyril","Richardson","Guard","Buffalo Bills","Late Hit",0,8268.0,"Week 4","2014-10-03",2014
+2011,"Craig","Robertson","Outside Linebacker","Cleveland Browns","Late Hit",0,8268.0,"Week 5","2014-10-10",2014
+2012,"Terrell","Suggs","Outside Linebacker","Baltimore Ravens","Late Hit",0,8268.0,"Week 9","2014-11-07",2014
+2013,"Dominic","Raiola","Center","Detroit Lions","Late Hit",0,10000.0,"Week 12","2014-11-27",2014
+2014,"John","Greco","Guard","Cleveland Browns","Late Hit",0,8268.0,"Week 13","2014-12-05",2014
+2015,"James","Ihedigbo","Safety","Detroit Lions","Late Hit",0,10000.0,"Week 8","2014-10-31",2014
+2016,"Donald","Butler","Outside Linebacker","San Diego Chargers","Late Hit",0,10000.0,"Week 8","2014-11-01",2014
+2017,"Kam","Chancellor","Safety","Seattle Seahawks","Late Hit",0,7875.0,"Week 17","2014-01-03",2014
+2018,"Paul","Fanaika","Guard","Arizona Cardinals","Late Hit",0,8268.0,"Week 10","2014-11-14",2014
+2019,"J.C.","Tretter","Center","Green Bay Packers","Leg Whip",0,16537.0,"Week 11","2014-11-21",2014
+2020,"Seji","Ajirotutu","Wide Receiver","San Diego Chargers","Physical Contact with Official",0,27562.0,"Week 9","2014-11-07",2014
+2021,"Travis","Kelce","Tight End","Kansas City Chiefs","Obscene gesture",0,11025.0,"Week 13","2014-12-05",2014
+2022,"Johnny","Manziel","Quarterback","Cleveland Browns","Unsportsmanlike Conduct",0,12000.0,"Preseason","2014-08-22",2014
+2023,"Josh","Brent","Defensive Tackle","Dallas Cowboys","""Manslaughter, Driving Under Influence""",10,370588.0,"N/A","2014-09-02",2014
+2024,"Kendall","Langford","Defensive Tackle","St. Louis Rams","Physical Contact with Official",0,7875.0,"Week 17","2014-01-03",2014
+2025,"Erik","Walden","Outside Linebacker","Indianapolis Colts","Physical Contact with Official",0,27652.0,"Week 7","2014-10-23",2014
+2026,"Geno","Smith","Quarterback","New York Jets","Profanity",0,12000.0,"Week 4","2014-10-03",2014
+2027,"Lamin","Barrow","Outside Linebacker","Denver Broncos","Striking/Kicking/Kneeing",0,8268.0,"Week 6","2014-10-16",2014
+2028,"Ethan","Westbrooks","Defense","St. Louis Rams","Striking/Kicking/Kneeing",0,8268.0,"Week 6","2014-10-17",2014
+2029,"DeAngelo","Hall","Cornerback","Washington Redskins","Striking/Kicking/Kneeing",0,7875.0,"Week 13","2014-01-03",2014
+2030,"Linval","Joseph","Defensive Tackle","Minnesota Vikings","Roughing the Passer",0,20000.0,"Week 12","2014-11-28",2014
+2031,"Akiem","Hicks","Defense","New Orleans Saints","Roughing the Passer",0,16537.0,"Preseason","2014-08-29",2014
+2032,"Courtney","Upshaw","Outside Linebacker","Baltimore Ravens","Roughing the Passer",0,16537.0,"Week 2","2014-09-19",2014
+2033,"Courtney","Upshaw","Outside Linebacker","Baltimore Ravens","Roughing the Passer",0,20000.0,"Week 9","2014-11-07",2014
+2034,"Fletcher","Cox","Defense","Philadelphia Eagles","Roughing the Passer",0,16537.0,"Week 1","2014-09-12",2014
+2035,"Calvin","Pace","Outside Linebacker","New York Jets","Roughing the Passer",0,16537.0,"Week 1","2014-09-12",2014
+2036,"J.J.","Watt","Defense","Houston Texans","Roughing the Passer",0,16537.0,"Week 4","2014-10-03",2014
+2037,"James","Ihedigbo","Safety","Detroit Lions","Roughing the Passer",0,16537.0,"Week 4","2014-10-03",2014
+2038,"Christian","Kirksey","Outside Linebacker","Cleveland Browns","Roughing the Passer",0,8268.0,"Week 5","2014-10-08",2014
+2039,"Quinton","Dial","Defensive Tackle","San Francisco 49ers","Roughing the Passer",0,16537.0,"Week 2","2014-09-19",2014
+2040,"JoLonn","Dunbar","Outside Linebacker","St. Louis Rams","Roughing the Passer",0,16537.0,"Week 2","2014-09-19",2014
+2041,"Dwan","Edwards","Defensive Tackle","Carolina Panthers","Roughing the Passer",0,15750.0,"Week 17","2014-01-03",2014
+2042,"Akiem","Hicks","Defense","New Orleans Saints","Roughing the Passer",0,7875.0,"Week 17","2014-01-03",2014
+2043,"Tyrunn","Walker","Defense","New Orleans Saints","Roughing the Passer",0,7875.0,"Week 17","2014-01-03",2014
+2044,"Keenan","Robinson","Outside Linebacker","Washington Redskins","Roughing the Passer",0,16537.0,"Week 9","2014-11-07",2014
+2045,"Jarvis","Jenkins","Defense","Washington Redskins","Roughing the Passer",0,16537.0,"Week 1","2014-09-12",2014
+2046,"Chandler","Jones","Defense","New England Patriots","Roughing the Passer",0,16537.0,"Week 1","2014-09-12",2014
+2047,"Donta","Hightower","Outside Linebacker","New England Patriots","Roughing the Passer",0,16537.0,"Week 1","2014-09-12",2014
+2048,"Linval","Joseph","Defensive Tackle","Minnesota Vikings","Roughing the Passer",0,16537.0,"Week 9","2014-11-07",2014
+2049,"Teddy","Williams","Cornerback","Chicago Bears","Helmet-to-Helmet Hit",0,22050.0,"Week 10","2014-11-14",2014
+2050,"LaVon","Brazill","Wide Receiver","Indianapolis Colts","Substance Abuse",16,588513.0,"N/A","2014-07-03",2014
+2051,"Tanard","Jackson","Safety","Washington Redskins","Substance Abuse",16,730000.0,"N/A","2014-07-09",2014
+2052,"Will","Hill","Safety","New York Giants","Substance Abuse",6,201176.0,"N/A","2014-05-30",2014
+2053,"Ray","Rice","Running Backs","Baltimore Ravens","Personal Conduct",0,0.0,"N/A","2014-09-08",2014
+2054,"Daryl","Washington","Outside Linebacker","Arizona Cardinals","Substance Abuse",16,3000000.0,"N/A","2014-05-30",2014
+2055,"Vince","Williams","Outside Linebacker","Pittsburgh Steelers","Taunting",0,8268.0,"Week 9","2014-11-07",2014
+2056,"Richard","Sherman","Cornerback","Seattle Seahawks","Taunting",0,7875.0,"Postseason","2014-01-24",2014
+2057,"Peyton","Manning","Quarterback","Denver Broncos","Taunting",0,8268.0,"Preseason","2014-08-28",2014
+2058,"LeGarrette","Blount","Running Backs","Pittsburgh Steelers","Football Into Stands",0,5512.0,"Week 3","2014-09-26",2014
+2059,"Steve","Smith","Wide Receiver","Baltimore Ravens","Face Mask",0,8268.0,"Week 7","2014-10-24",2014
+2060,"Michael","Crabtree","Wide Receiver","San Francisco 49ers","Football Into Stands",0,5512.0,"Week 6","2014-10-17",2014
+2061,"Julian","Edelman","Wide Receiver","New England Patriots","Football Into Stands",0,5512.0,"Week 9","2014-11-07",2014
+2062,"Donald","Butler","Outside Linebacker","San Diego Chargers","Other Uniform/Equipment Violation",0,5512.0,"Week 7","2014-10-24",2014
+2063,"Mike","Williams","Wide Receiver","Buffalo Bills","Other Uniform/Equipment Violation",0,11025.0,"Week 3","2014-09-26",2014
+2064,"Mike","Williams","Wide Receiver","Buffalo Bills","Other Uniform/Equipment Violation",0,5512.0,"Week 1","2014-09-12",2014
+2065,"Rob","Gronkowski","Tight End","New England Patriots","Unsportsmanlike Conduct",0,8268.0,"Week 11","2014-11-21",2014
+2066,"Antonio","Brown","Wide Receiver","Pittsburgh Steelers","Striking/Kicking/Kneeing",0,8268.0,"Week 1","2014-09-12",2014
+2067,"Taylor","Lewan","Left Tackle","Tennessee Titans","Face Mask",0,8268.0,"N/A","2014-08-22",2014
+2068,"Kyle","Long","Guard","Chicago Bears","Roughing the Passer",0,8268.0,"Week 4","2014-10-03",2014
+2069,"Muhammad","Wilkerson","Defense","New York Jets","Fighting",0,20000.0,"Week 2","2014-09-19",2014
+2070,"Albert","McClellan","Outside Linebacker","Baltimore Ravens","Unsportsmanlike Conduct",0,8268.0,"Week 9","2014-11-07",2014
+2071,"Jeremy","Zuttah","Center","Baltimore Ravens","Unsportsmanlike Conduct",0,8268.0,"Week 9","2014-11-07",2014
+2072,"Aqib","Talib","Cornerback","Denver Broncos","Late Hit",0,8268.0,"Week 3","2014-09-26",2014
+2073,"Brian","Quick","Wide Receiver","St. Louis Rams","Unsportsmanlike Conduct",0,8268.0,"Week 7","2014-10-24",2014
+2074,"Cameron","Heyward","Defense","Pittsburgh Steelers","Verbal or other Non-Physical Offense Against  Official",0,22050.0,"Week 4","2014-10-03",2014
+2075,"Jason","Peters","Left Tackle","Philadelphia Eagles","Unsportsmanlike Conduct",0,10000.0,"Week 3","2014-09-26",2014
+2076,"Michael","Vick","Quarterback","New York Jets","Taunting",0,8268.0,"Week 10","2014-11-14",2014
+2077,"William","Moore","Safety","Atlanta Falcons","Hit on Defenseless Player",0,22050.0,"Week 13","2014-12-04",2014
+2078,"DaQuan","Bowers","Defensive Tackle","Tampa Bay Buccaneers","""Substance Abuse, Performance Enhancing Drugs""",2,105972.0,"N/A","2014-10-21",2014
+2079,"Haloti","Ngata","Defensive Tackle","Baltimore Ravens","""Substance Abuse, Performance Enhancing Drugs""",4,2000000.0,"Week 13","2014-12-04",2014
+2080,"Matt","Prater","Kicker","Denver Broncos","""Substance Abuse, Performance Enhancing Drugs""",4,897058.0,"N/A","2014-08-24",2014
+2081,"Spencer","Nealy","Defensive Tackle","Minnesota Vikings","""Substance Abuse, Performance Enhancing Drugs""",4,98823.0,"N/A","2014-07-11",2014
+2082,"Terrell","Suggs","Outside Linebacker","Baltimore Ravens","Other Uniform/Equipment Violation",0,5512.0,"Week 2","2014-09-19",2014
+2083,"Jorvorskie","Lane","Fullback","Tampa Bay Buccaneers","""Substance Abuse, Performance Enhancing Drugs""",2,58235.0,"N/A","2014-10-15",2014
+2084,"LaRon","Landry","Safety","Indianapolis Colts","""Substance Abuse, Performance Enhancing Drugs""",4,1117650.0,"N/A","2014-09-29",2014
+2085,"Andre","Brown","Running Backs","Houston Texans","""Substance Abuse, Performance Enhancing Drugs""",8,0.0,"N/A","2014-09-04",2014
+2086,"Erin","Henderson","Outside Linebacker","Minnesota Vikings","""Personal Conduct, Driving Under Influence""",4,0.0,"N/A","2014-09-04",2014
+2087,"Aldon","Smith","Outside Linebacker","San Francisco 49ers","""Substance Abuse, Personal Conduct""",9,2422970.0,"N/A","2014-08-29",2014
+2088,"Ace","Sanders","Wide Receiver","Jacksonville Jaguars","Substance Abuse",4,144791.0,"N/A","2014-07-22",2014
+2089,"Brian","Tyms","Wide Receiver","New England Patriots","Substance Abuse",4,116470.0,"N/A","2014-08-10",2014
+2090,"D.C.","Jefferson","Tight End","Carolina Panthers","Substance Abuse",4,116705.0,"N/A","2014-09-05",2014
+2091,"Dion","Jordan","Defense","Miami Dolphins","Substance Abuse",2,551119.0,"N/A","2014-07-04",2014
+2092,"Dion","Jordan","Defense","Miami Dolphins","Substance Abuse",4,1102240.0,"N/A","2014-09-19",2014
+2093,"Dominique","Davis","Quarterback","Tennessee Titans","Substance Abuse",1,0.0,"N/A","2014-09-05",2014
+2094,"Donald","Stephenson","Right Tackle","Kansas City Chiefs","Substance Abuse",4,171617.0,"N/A","2014-08-22",2014
+2095,"Dwayne","Bowe","Wide Receiver","Kansas City Chiefs","Substance Abuse",1,691176.0,"N/A","2014-08-15",2014
+2096,"Eric","Herman","Right Tackle","New York Giants","Substance Abuse",4,98823.0,"N/A","2014-08-08",2014
+2097,"Frank","Alexander","Defense","Carolina Panthers","Substance Abuse",4,161778.0,"N/A","2014-05-04",2014
+2098,"Frank","Alexander","Defense","Carolina Panthers","Substance Abuse",10,404448.0,"N/A","2014-10-02",2014
+2099,"Fred","Davis","Tight End","Washington Redskins","Substance Abuse",0,0.0,"N/A","2014-02-19",2014
+2100,"Jakar","Hamilton","Safety","Dallas Cowboys","Substance Abuse",4,118666.0,"N/A","2014-08-28",2014
+2101,"Jake","Knott","Outside Linebacker","Philadelphia Eagles","Substance Abuse",4,117411.0,"N/A","2014-04-04",2014
+2102,"Jayron","Hosley","Cornerback","New York Giants","Substance Abuse",4,164411.0,"N/A","2014-06-04",2014
+2103,"Jerome","Simpson","Wide Receiver","Minnesota Vikings","Substance Abuse",3,223529.0,"N/A","2014-08-19",2014
+2104,"Josh","Gordon","Wide Receiver","Cleveland Browns","Substance Abuse",10,817481.0,"N/A","2014-08-27",2014
+2105,"Lane","Johnson","Right Tackle","Philadelphia Eagles","Substance Abuse",4,1061660.0,"N/A","2014-07-23",2014
+2106,"Marlon","Moore","Wide Receiver","Cleveland Browns","Substance Abuse",1,42941.0,"N/A","2014-08-30",2014
+2107,"Orlando","Scandrick","Cornerback","Dallas Cowboys","Substance Abuse",2,158823.0,"N/A","2014-08-12",2014
+2108,"Reshad","Jones","Safety","Miami Dolphins","Substance Abuse",4,849411.0,"N/A","2014-08-11",2014
+2109,"Robert","Mathis","Outside Linebacker","Indianapolis Colts","Substance Abuse",4,2058820.0,"N/A","2014-05-16",2014
+2110,"Rokevious","Watkins","Guard","Kansas City Chiefs","Substance Abuse",4,123528.0,"N/A","2014-07-03",2014
+2111,"Stedman","Bailey","Wide Receiver","St. Louis Rams","Substance Abuse",2,75786.0,"N/A","2014-05-12",2014
+2112,"Wes","Welker","Wide Receiver","Denver Broncos","Substance Abuse",2,941176.0,"N/A","2014-09-02",2014
+2113,"Chris","Lewis-Harris","Cornerback","Cincinnati Bengals","Substance Abuse",2,58235.0,"N/A","2014-07-30",2014
+2114,"Nigel","Bradham","Outside Linebacker","Buffalo Bills","Substance Abuse",1,40356.0,"N/A","2014-07-30",2014
+2115,"Brandon","Moore","Defense","Washington Redskins","Substance Abuse",4,98823.0,"N/A","2014-04-08",2014
+2116,"Josh","Norman","Cornerback","Carolina Panthers","Other Uniform/Equipment Violation",0,11025.0,"Week 13","2014-12-05",2014
+2117,"Michael","Crabtree","Wide Receiver","San Francisco 49ers","Other Uniform/Equipment Violation",0,5512.0,"Week 1","2014-09-12",2014
+2118,"Colin","Kaepernick","Quarterback","San Francisco 49ers","Other Uniform/Equipment Violation",0,10000.0,"Week 5","2014-10-09",2014
